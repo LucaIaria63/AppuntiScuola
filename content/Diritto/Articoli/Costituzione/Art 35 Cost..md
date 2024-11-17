@@ -1,0 +1,3 @@
+# Articolo
+- La Repubblica tutela il lavoro (Artt. [[Art 1 Cost.|1]], [[Art 4 Cost.|4]], [[Art 38 Cost.|38]])in tutte le sue forme ed applicazioni (2060 ss. c.c.). Cura la formazione e l'elevazione professionale dei lavoratori.  Promuove e favorisce gli accordi e le organizzazioni internazionali ([[Art 35 Cost.#1|1]]) intesi ad affermare e regolare i diritti del lavoro.  
+  Riconosce la libertà di emigrazione (Art [[Art 16 Cost|16]]) nell'interesse generale, e tutela il lavoro italiano all'estero.
