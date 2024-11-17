@@ -4,7 +4,7 @@
   
   I beni economici appartengono allo Stato, ad enti o a privati.  
   
-  La proprietà privata è riconosciuta e garantita dalla [legge](https://www.brocardi.it/dizionario/391.html "Dizionario Giuridico: Legge"), che ne determina i modi di acquisto [[Art 922 c.c.]], di godimento e i limiti allo scopo di assicurarne la funzione sociale ([[Art 42 Cost.#(2)|2]]) e di renderla accessibile a tutti.  
+  La proprietà privata è riconosciuta e garantita dalla legge, che ne determina i modi di acquisto [[Art 922 c.c.]], di godimento e i limiti allo scopo di assicurarne la funzione sociale ([[Art 42 Cost.#(2)|2]]) e di renderla accessibile a tutti.  
   
   La proprietà privata può essere, nei casi preveduti dalla legge, e salvo [indennizzo](), [espropriata]() per motivi di interesse generale [[Art 834 c.c.]].  
   
