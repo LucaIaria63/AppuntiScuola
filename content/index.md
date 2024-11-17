@@ -1,5 +1,5 @@
 ---
-title: homepage
+title: Homepage
 ---
 
 # 3° Anno
