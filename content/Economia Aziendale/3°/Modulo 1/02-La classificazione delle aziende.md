@@ -43,3 +43,4 @@ Queste aziende sono definite anche aziende non profit perché non hanno come obi
 # Pagine
 - Libro di economia: 5-6 del libro 1
 - Pagina Precedente: [[01-Elementi costitutivi di un'azienda]].
+- Pagina Successiva: [[03-La creazione di valore]].
