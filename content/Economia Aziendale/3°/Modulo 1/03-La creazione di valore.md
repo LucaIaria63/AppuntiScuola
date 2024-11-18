@@ -7,5 +7,5 @@ Qualsiasi azienda svolge un processo produttivo che inizia con l'acquisizione de
 
 Nel mercato questi valori sono misurati dai prezzi e quindi nelle imprese il valore economico è determinato direttamente dalla differenza tra prezzi di vendita (**ricavi**) e i prezzi di acquisto (**costi**).
 # Pagine
-- Libro di economia: 5-6 del libro 1
+- Libro di economia: 6-7 del libro 1
 - Pagina Precedente: [[02-La classificazione delle aziende]].
