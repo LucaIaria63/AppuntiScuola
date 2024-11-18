@@ -8,10 +8,9 @@ Alle famiglie corrispondono, dal punto di vista dell'attività economica svolta,
 Le imprese governano le aziende di produzione (aziende business oriented), che agiscono sul mercato scambiando beni e servizi dietro il pagamento di un prezzo di vendita. Queste aziende sono chiamate "imprese" perché possiedono le caratteristiche proprie del imprenditorialità, termine con cui si indica la volontà dell'organizzazione di agire assumendo rischi di mercato.
 # Schema riassuntivo
 
-![[Schema-02.png]]
+![[public/Economia-Aziendale/3°/Scheme/Schema-02.png]]
 ## Spiegazione
-Le imprese che sono aziende con l'obbiettivo di produrre che giuridicamente (secondo l'ordinamento giuridico) si identificano come imprese individuali o imprese collettive (società), vendono beni e servizi per le famiglie (aziende di consumo).
-
+Le imprese che sono aziende con l'obbiettivo di produrre che giuridicamente (secondo l'ordinamento giuridico) s identificano come imprese individuali o imprese collettive (società), vendono beni e servizi per le famiglie (aziende di consumo).
 # Tipi di imprese
 Le imprese operano nei diversi settori economici svolgendo attività di produzione diretta (imprese agricole, industriali, di servizi) o di produzione indiretta (imprese commerciali).
 
@@ -29,7 +28,7 @@ Le imprese operano nei diversi settori economici svolgendo attività di produzio
 - società di persone
 - società di capitali
 # Aziende che soddisfano bisogni collettivi
-Le aziende la cui attività è rivolta al soddisfacimento dei [[Economia Aziendale/Definizioni universali#Bisogni collettivi|bisogni collettivi]] (o bisogni pubblici), quali la giustizia, ordine pubblico, difesa, istruzione, salute ecc., producono ed erogano beni e servizi direttamente a favore della collettività.
+Sono aziende che pensano al soddisfacimento dei [[Economia Aziendale/Definizioni universali#Bisogni collettivi|bisogni collettivi]] (o bisogni pubblici), come la giustizia, ordine pubblico, difesa, istruzione, salute ecc., producono ed erogano beni e servizi direttamente a favore della collettività.
 Si tratta delle aziende che fanno capo agli enti della pubblica Amministrazione, comunemente chiamate aziende pubbliche.
 ## Enti della pubblica amministrazione
 
