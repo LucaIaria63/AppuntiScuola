@@ -1,6 +1,10 @@
 ![[Economia Aziendale/Definizioni universali#L'azienda|L'azienda]]
 
-In qualsiasi azienda è presente sia una dimensione economica che si identifica nella creazione di nuovo valore (nuova ricchezza) quale mezzo per soddisfare i bisogni umani, sia una dimensione sociale perché la sua attività coinvolge molteplici persone (quelle che operano al suo interno e quelle che, in generale, fanno parte della collettività in cui è inserita) con le quali essa essa si deve costantemente relazionare.
+# Nelle aziende sono presenti due dimensioni economiche:
+## Dimensione economica
+- Si impegna nella creazione di nuovo valore (nuova ricchezza) mezzo per soddisfare i bisogni umani
+## Dimensione sociale
+- Perché coinvolge molteplici persone (quelle che lavorano nel azienda e quelle che interagiscono nel azienda perché parte della stessa comunità) con le quali si interagisce sempre
 # Elementi che costituiscono a un azienda
 - la stabilità dell'organizzazione, destinata a durare nel tempo e non a compiere operazioni occasionali.
 - l'autonomia, cioè l'indipendenza dell'azienda dal proprietario (o da soci) l'azienda infatti può continuare a vivere a prescindere dal soggetto che l'ha fondata: per esempio se l'imprenditore decide di interrompere la sua attività per ragioni di età, l'azienda può essere venduta.
