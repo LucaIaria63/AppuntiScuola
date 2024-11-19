@@ -1,7 +1,7 @@
 Qualsiasi azienda svolge un processo produttivo che inizia con l'acquisizione dei fattori della produzione (input) e termina con l'ottenimento di beni o servizi (output) con cui si soddisfano i bisogni umani.
 # Il processo produttivo
 
-![[Schema-03.png]]
+![[Schema/Schema-03.png]]
 
 *Si genera **nuovo valore economico** (nuova ricchezza) quando il valore dei beni o servizi prodotti è superiore al valore dei fattori produttivi utilizzati (input).*
 

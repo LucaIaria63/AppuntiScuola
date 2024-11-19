@@ -4,7 +4,7 @@ title: Homepage
 
 # 3° Anno
 
-## Diritto
+## Diritto (Non aggiornato fino alla fine)
 ### Capitolo 1
 
 - [[La proprietà e i diritti reali]]
@@ -22,13 +22,13 @@ title: Homepage
 - [[Possesso e detenzione]]
 - [[Azioni a difesa della proprietà]]
 
-## Economia Aziendale
+## Economia Aziendale (Fino a pag.6)
 ### Modulo 1
 - [[01-Elementi costitutivi di un'azienda]]
 - [[02-La classificazione delle aziende]]
 - [[03-La creazione di valore]]
 
-## Economia politica
+## Economia politica (Mancano parti finali)
 - [[Economia politica/3°/Capitolo 1/Introduzione|Introduzione]]
 - [[Rami della scienza economica]]
 - [[L'informazione economica]]
@@ -63,6 +63,6 @@ title: Homepage
 ## Spagnolo
 - 
 
-## Storia
+## Storia (Manca il discorso musulmani e temi antecedenti al terzo capitolo)
 -  [[4-Le riforme per liberare la chiesa]]
 - [[5-Conflitto tra papato e impero]]
