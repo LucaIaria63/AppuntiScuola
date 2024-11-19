@@ -22,7 +22,7 @@ title: Homepage
 - [[Possesso e detenzione]]
 - [[Azioni a difesa della proprietà]]
 
-## Economia Aziendale (Fino a pag.6)
+## Economia Aziendale (Fino a pag.7)
 ### Modulo 1
 - [[01-Elementi costitutivi di un'azienda]]
 - [[02-La classificazione delle aziende]]

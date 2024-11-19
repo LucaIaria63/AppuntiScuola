@@ -16,3 +16,10 @@
 - sono i bisogni avvertiti singolarmente da un individuo o da un gruppo di individui
 # Bisogni collettivi
 - sono i bisogni avvertiti da tutti i membri di una collettività.
+![[03-La creazione di valore#Il valore economico]]
+# Principio di economicità
+- ricerca l'equilibrio tra costi sostenuti per lo svolgimento del processo produttivo e l'efficacia dei beni/servizi offerti, ossia la soddisfazione del bisogno in cui è destinato
+# Valore sociale
+- è costituito dall'insieme di idee condivise di ciò che "è giusto" di comportamenti ritenuti moralmente corretti e determinato da "fattori di merito", quali il miglioramento della relazione interpersonali, la giustizia sociale, l'uguaglianza, l'equità nella ripartizione risorse etc.
+# Statuto
+- documento che contiene le norme che regolano il funzionamento della società.
