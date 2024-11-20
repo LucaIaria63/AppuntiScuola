@@ -29,11 +29,14 @@ title: Homepage
 - [[03-La creazione di valore]]
 
 ## Economia politica (Mancano parti finali)
-- [[Economia politica/3°/Capitolo 1/Introduzione|Introduzione]]
+### Modulo 1
+#### Capitolo 1
+- [[content/Economia politica/3°/Modulo 1/Capitolo 1/Introduzione|Introduzione]]
 - [[Rami della scienza economica]]
 - [[L'informazione economica]]
 - [[I metodi del economista]]
 - [[I bisogni e i beni economici]]
+#### Capitolo 2
 - [[Il problema delle scelte]]
 - [[Soggetti e Sistema Economico]]
 - [[Fenomeni economici]]
