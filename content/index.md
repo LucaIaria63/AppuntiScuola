@@ -1,7 +1,6 @@
 ---
 title: Homepage
 ---
-
 # 3° Anno
 
 ## Diritto (Non aggiornato fino alla fine)
