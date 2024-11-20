@@ -1,3 +1,4 @@
+
 # Lo scopo delle aziende è il soddisfacimento dei bisogni umani e possono essere
 ## Aziende che soddisfano [[Economia Aziendale/Definizioni universali#Bisogni individuali|bisogni individuali]]
 - Sono aziende destinate a soddisfare bisogni come il bisogno di nutristi, vestirsi, possedere un bene(per esempio un'automobile, elettrodomestico), ricevere consulenze in diversi ambiti (per esempio fiscale, legale, amministrativa, finanziaria etc.) fanno capo alle famiglie e alle imprese.

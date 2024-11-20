@@ -21,9 +21,9 @@
 #### Soggetti economici di fatto
 - è la persona (o gruppo di persone) che ha il controllo dell'azienda e ne determina le scelte fondamentali (es. nelle imprese individuali il soggetto economico di fatto è l'imprenditore, mentre nelle società il gruppo di soci che possiede la maggioranza del capitale sociale)
 - coloro che detengono il potere
-### Schema riassuntivo
+### Schema riassuntivo soggetti interni
 
-![[Schema_04.png]]
+![[Schema-04-01.png]]
 
 ## Soggetti esterni ([[Economia Aziendale/Definizioni universali#Stakeholder|stakeholder]] esterni)
 - Tutte le persone, gli enti e le altre azienda con cui l'impresa entra o potrebbero entrare in relazione, che ricevono delle ricompense
@@ -37,9 +37,16 @@
 - sostengono l'impresa acquistando i beni e/o servizi prodotti
 - Loro si aspettano che il prodotto gli soddisfi
 ### Lo stato
-- 
+- attraverso i suoi uffici periferici che mette a disposizione alle imprese
+- Lui riceve ricompense sotto  forma di *imposte* e *tasse*
 ### La collettività
+- offre le risorse presenti nel territorio e pretende responsabilità da parte dell'azienda, e che contribuisca allo sviluppo economico e sociale del paese.
+### Schema riassuntivo soggetti esterni
 
+![[Scheda-04-02.png]]
+
+### Assetto istituzionale
+- Insieme delle regole delle relazioni tra l'impresa e [[Economia Aziendale/Definizioni universali#Stakeholder|stakeholder]] (interlocutori sociali interni e esterni)
 # Pagine
 - Libro di economia: 8-9 del libro 1
 - Pagina Precedente: [[03-La creazione di valore]].

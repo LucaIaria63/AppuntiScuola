@@ -56,5 +56,12 @@
 ---
 # Interessi istituzionali
 - Consistono nei fini che l'azienda predilige (sceglie)
+---
 # Stakeholder
 - Portatori di interesse (coloro che sono interessati)
+---
+![[04-I soggetti aziendali#Assetto istituzionale]]
+
+---
+# Ambiente esterno
+- è l'insieme del mercato dove l'impresa opera e del mercato generale a sua volta composto da più ambienti (microeconomico, politico. sociale, ambiente, religioso etc.)
