@@ -23,3 +23,5 @@
 - è costituito dall'insieme di idee condivise di ciò che "è giusto" di comportamenti ritenuti moralmente corretti e determinato da "fattori di merito", quali il miglioramento della relazione interpersonali, la giustizia sociale, l'uguaglianza, l'equità nella ripartizione risorse etc.
 # Statuto
 - documento che contiene le norme che regolano il funzionamento della società.
+# Utile
+- $Utile = Ricavi - Costi$

@@ -15,8 +15,14 @@
 ### Nelle imprese (Aziende terziarie, ETS)
 - Si misura indirettamente attraverso specifici indicatori (per esempio il numero di occupati, il livello di paga dei dipendenti) relativi al ambito in cui interviene
 - queste aziende anche se non interessate al profitto devono agire secondo il [[Economia Aziendale/Definizioni universali#Principio di economicità|principio di economicità]]
-- il valore economico è rappresentato dall'utile, l'obbiettivo alla base delle decisioni prese per dare vita al attività economica
-- $Utile = Ricavi - Costi$
+- il valore economico è rappresentato dall'[[Economia Aziendale/Definizioni universali#Utile|utile]], l'obbiettivo alla base delle decisioni prese per dare vita al attività economica
+- Il valore economico generato è tanto maggiore quanto più è elevato l'utile realizzato. Ma ci sono aziende che insieme all'[[Economia Aziendale/Definizioni universali#Utile|utile]] seguono anche obbiettivi sociali e ambientali, sono parla delle società benefit e delle B Corp, imprese che hanno come scopo istituzionale la creazione di valore economico e la creazione di [[Economia Aziendale/Definizioni universali#Valore sociale|valore sociale]]
+
+| Società benefit                                                                                                                                                     | B Corp                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| Società regolate dalla legge 208/2015. Sono imprese "ibride" che desiderano avere un impatto positivo sull'ambiente e sulla comunità oltre a ricercare il profitto. | Società che hanno una certificazione (ottenuta da soggetti esterni) di certi indicatore della performance (Capacità) sociali e ambientali. |
+| Gli utili possono essere prelevati dai                                                                                                                              | soci a remunerazione dei capitali investiti                                                                                                |
+
 # Pagine
 - Libro di economia: 6-7 del libro 1
 - Pagina Precedente: [[02-La classificazione delle aziende]].
