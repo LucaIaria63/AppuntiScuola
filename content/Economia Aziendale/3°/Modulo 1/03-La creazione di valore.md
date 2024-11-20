@@ -1,12 +1,10 @@
-# APPUNTO NON TERMINATO
-
 # Il processo produttivo
 
 - Qualsiasi azienda svolge un processo produttivo che inizia con l'acquisizione dei fattori della produzione (input) e termina con l'ottenimento di beni o servizi (output) con cui si soddisfano i bisogni umani.
 
 ## Schema riassuntivo
 
-![[Economia Aziendale/3°/Schema/Schema-03.png]]
+![[content/Economia Aziendale/3°/Modulo 1/Schema/Schema-03.png]]
 
 ## Il valore economico
 - *Si genera **nuovo valore economico** (nuova ricchezza) quando il valore dei beni o servizi prodotti è superiore al valore dei fattori produttivi utilizzati (input).*
@@ -22,7 +20,9 @@
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
 | Società regolate dalla legge 208/2015. Sono imprese "ibride" che desiderano avere un impatto positivo sull'ambiente e sulla comunità oltre a ricercare il profitto. | Società che hanno una certificazione (ottenuta da soggetti esterni) di certi indicatore della performance (Capacità) sociali e ambientali. |
 | Gli utili possono essere prelevati dai                                                                                                                              | soci a remunerazione dei capitali investiti                                                                                                |
-
+#### Spiegazione semplificata
+- Le società per benefit sono a imprese che vogliono sia il denaro sia aiutare l'ambiente mentre le società B Corp sono imprese che erano società benefit e dopo una serie di controlli hanno ottenuto la certificazione B Corp
 # Pagine
 - Libro di economia: 6-7 del libro 1
 - Pagina Precedente: [[02-La classificazione delle aziende]].
+- Pagina Successiva: [[04-I soggetti aziendali]]

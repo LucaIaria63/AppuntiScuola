@@ -26,6 +26,7 @@ title: Homepage
 - [[01-Elementi costitutivi di un'azienda]]
 - [[02-La classificazione delle aziende]]
 - [[03-La creazione di valore]]
+- [[04-I soggetti aziendali]]
 
 ## Economia politica (Mancano parti finali)
 ### Modulo 1
