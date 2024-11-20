@@ -31,9 +31,13 @@
 - sono coloro che prestano capitali a un'azienda necessari per fare la produzione in cambio di una remunerazione (interesse)
 - Loro hanno interesse che l'impresa sia affidabile ovvero che possa ripagare i debiti (interessi + prestito) pattuiti nelle scadenze concordate. 
 ### I fornitori
-- offrono merci, materie e servizi necessari per la produzione e la vendita dei prodotti in cambio del pagamento del prezzo concordato
+- Danno le merci, materie e servizi necessari per la produzione e la vendita dei prodotti in cambio del pagamento del prezzo concordato.
+- Loro sono importanti per l'azienda perché in base alla qualità dei loro beni/servizi dipende infatti la soddisfazione dei clienti
 ### I clienti
+- sostengono l'impresa acquistando i beni e/o servizi prodotti
+- Loro si aspettano che il prodotto gli soddisfi
 ### Lo stato
+- 
 ### La collettività
 
 # Pagine

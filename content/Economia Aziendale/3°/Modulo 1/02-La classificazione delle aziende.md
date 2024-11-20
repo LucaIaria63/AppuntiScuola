@@ -7,7 +7,7 @@
 - Sono aziende che governano le aziende di produzione, che scambiano beni e servizi dietro pagamento di un prezzo di vendita, vengono chiamate imprese e non aziende perché richiamano le caratteristiche del imprenditore, le quali si assumono i rischi di mercato organizzando.
 #### Schema riassuntivo
 
-![[content/Economia Aziendale/3°/Modulo 1/Schema/Schema-02.png]]
+![[Economia Aziendale/3°/Modulo 1/Schema/Schema-02.png]]
 ##### Spiegazione schema
 Le imprese che sono aziende con l'obbiettivo di produrre che giuridicamente (secondo l'ordinamento giuridico) s identificano come imprese individuali o imprese collettive (società), vendono beni e servizi per le famiglie (aziende di consumo).
 #### Tipi di imprese
