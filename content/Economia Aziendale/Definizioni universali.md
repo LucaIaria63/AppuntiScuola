@@ -65,3 +65,10 @@
 ---
 # Ambiente esterno
 - è l'insieme del mercato dove l'impresa opera e del mercato generale a sua volta composto da più ambienti (microeconomico, politico. sociale, ambiente, religioso etc.)
+---
+# Circoscrivere
+- Limitare
+---
+![[05-Le relazioni con l'ambiente#prodotti e servizi sostituitivi]]
+
+---
