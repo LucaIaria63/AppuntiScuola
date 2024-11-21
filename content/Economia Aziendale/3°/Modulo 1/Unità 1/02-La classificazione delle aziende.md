@@ -10,7 +10,7 @@
 
 ![[Economia Aziendale/3°/Modulo 1/Unità 1/Schema/Schema-02.png]]
 ##### Spiegazione schema
-Le imprese che sono aziende con l'obbiettivo di produrre che giuridicamente (secondo l'ordinamento giuridico) s identificano come imprese individuali o imprese collettive (società), vendono beni e servizi per le famiglie (aziende di consumo).
+Le imprese che sono aziende con l'obbiettivo di produrre che giuridicamente (secondo l'ordinamento giuridico) s'identificano come imprese individuali o imprese collettive (società), vendono beni e servizi per le famiglie (aziende di consumo).
 #### Tipi di imprese
 Le imprese operano nei diversi settori economici svolgendo attività di produzione diretta (imprese agricole, industriali, di servizi) o di produzione indiretta (imprese commerciali).
 
