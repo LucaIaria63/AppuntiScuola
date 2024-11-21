@@ -72,3 +72,13 @@
 ![[05-Le relazioni con l'ambiente#prodotti e servizi sostituitivi]]
 
 ---
+![[06-L'impresa sostenibile#La sostenibilità]]
+
+---
+# Sviluppo 
+- crescita costante nel tempo
+---
+# Ecosistema
+- insieme di relazioni tra organismi viventi e ambiente fisico
+---
+![[06-L'impresa sostenibile#L'impresa sostenibile]]
