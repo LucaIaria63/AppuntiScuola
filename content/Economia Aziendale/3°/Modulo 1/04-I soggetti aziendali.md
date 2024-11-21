@@ -1,4 +1,3 @@
-# APPUNTO NON TERMINATO
 # Che cosa sono?
 - Le imprese fanno molteplici opzioni dal punto di vista giuridico che generano diritti e obblighi (es. contratto di compravendita compratore ha il **diritto** a ricevere le merci ma ha l'**obbligo** di pagarle)
 ## Soggetti interni ([[Economia Aziendale/Definizioni universali#Stakeholder|stakeholder]] interni)
@@ -54,8 +53,13 @@
 #### Socio-tecnico
 - è costituito da decisioni umane e da operazioni tecniche (sistema uomo-macchina)
 #### Funzionale
-- 
+- ha vari elementi che svolgono varie funzioni (vendere, acquistare etc.)
 #### Aperto
+- è influenzato dal ambiente esterno ricevendo in entrata (input) beni, servizi e informazioni e restituisce un (output) prodotti, servizi e informazioni.
+### Schema riassuntivo impresa come sistema
+
+![[Schema-04-03.png]]
 # Pagine
-- Libro di economia: 8-9 del libro 1
+- Libro di economia: da 8 a 10 del libro 1
 - Pagina Precedente: [[03-La creazione di valore]].
+- Pagina Successiva: [[05-Le relazioni con l'ambiente]]

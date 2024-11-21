@@ -21,12 +21,13 @@ title: Homepage
 - [[Possesso e detenzione]]
 - [[Azioni a difesa della proprietà]]
 
-## Economia Aziendale (Fino a pag.9)
+## Economia Aziendale (Fino a pag.10)
 ### Modulo 1
 - [[01-Elementi costitutivi di un'azienda]]
 - [[02-La classificazione delle aziende]]
 - [[03-La creazione di valore]]
 - [[04-I soggetti aziendali]]
+- [[05-Le relazioni con l'ambiente]]
 
 ## Economia politica (Mancano parti finali)
 ### Modulo 1
