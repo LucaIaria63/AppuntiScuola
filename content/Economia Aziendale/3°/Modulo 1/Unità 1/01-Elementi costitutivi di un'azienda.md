@@ -1,6 +1,6 @@
 ![[Economia Aziendale/Definizioni universali#L'azienda|L'azienda]]
 
-# Nelle aziende sono presenti due dimensioni economiche:
+# Nelle aziende sono presenti due dimensioni:
 ## Dimensione economica
 - Si impegna nella creazione di nuovo valore (nuova ricchezza) mezzo per soddisfare i bisogni umani
 ## Dimensione sociale
