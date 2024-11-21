@@ -1,3 +1,8 @@
+---
+tags:
+  - APPUNTO_NON_TERMINATO
+---
+
 - Tutte le imprese anche se hanno lo stesso scopo hanno caratteristiche differenti in base dell'[[Economia Aziendale/Definizioni universali#Ambiente esterno|ambiente esterno]] in cui sono inserite.
 # Macroambiente
 - è l'insieme di più ambienti (economico, politico, culturale, religioso) che vanno a influenzare l'azienda
@@ -33,6 +38,6 @@
 #### La reputazione
 - le capacità relazionali/comunicative possono determinare un vantaggio competitivo generando fiducia nel cliente e negli [[content/Economia Aziendale/Definizioni universali#Stakeholder|stakeholder]], raggiungendo l'obbiettivo della *fidelizzazione dei clienti*
 # Pagine
-- Libro di economia: da 10 a 11 del libro 1
+- Libro di economia: da 10 a 13 del libro 1
 - Pagina Precedente: [[04-I soggetti aziendali]].
 - Pagina Successiva: [[06-L'impresa sostenibile]]
