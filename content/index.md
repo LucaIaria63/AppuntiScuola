@@ -58,7 +58,7 @@ title: Homepage
 - 
 
 ## Informatica
-- [[[12-Frame]]]
+- [[12-Frame]]
 
 ## Lingua inglese
 - 
