@@ -6,19 +6,19 @@ title: Homepage
 ## Diritto (Non aggiornato fino alla fine)
 ### Capitolo 1
 
-- [[La proprietà e i diritti reali]]
-- [[Tipi di diritti]]
-- [[La proprietà immobiliare]]
-- [[I limiti della proprietà nell'interesse pubblico]]
-- [[I limiti della proprietà nell'interesse privato]]
-- [[Modi di acquisto della proprietà]]
+- [[1-La proprietà e i diritti reali]]
+- [[1.5-Tipi di diritti]]
+- [[2-La proprietà immobiliare]]
+- [[4-I limiti della proprietà nell'interesse pubblico]]
+- [[4-I limiti della proprietà nell'interesse privato]]
+- [[5-Modi di acquisto della proprietà]]
 ### Capitolo 2
 
-- [[La comproprietà]]
+- [[1-La comproprietà]]
 - [[La comunione dei diritti]]
 - [[Il condominio]]
-- [[Diritti reali di godimento]]
-- [[Possesso e detenzione]]
+- [[1-Diritti reali di godimento]]
+- [[1-Possesso e detenzione]]
 - [[Azioni a difesa della proprietà]]
 
 ## Economia Aziendale (Fino a pag.15)

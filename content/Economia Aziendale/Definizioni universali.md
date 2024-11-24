@@ -82,3 +82,8 @@
 - insieme di relazioni tra organismi viventi e ambiente fisico
 ---
 ![[06-L'impresa sostenibile#L'impresa sostenibile]]
+
+---
+# Articolazione
+- ripartizione, classificazione
+---

@@ -1,6 +1,6 @@
 # Caratteristiche
-- [[La proprietà e i diritti reali#Reali|Reali]]
-- [[Tipi di diritti#Assoluto|Assoluti]]
+- [[1-La proprietà e i diritti reali#Reali|Reali]]
+- [[1.5-Tipi di diritti#Assoluto|Assoluti]]
 - [[Diritto/Definizioni universali#Tipici|Tipici]]
 # Sono
 ## Diritto di superficie

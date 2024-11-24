@@ -3,7 +3,7 @@
 ## Proprietà
 
 - La parola **"proprietà"** deriva dal latino _"proprietas, proprietatis"_, che a sua volta deriva da _"proprius"_, cioè "proprio", "che appartiene a qualcuno".
-- Il termine latino _proprietas_ si riferisce al concetto di appartenenza esclusiva di un bene, o meglio, al diritto esclusivo di [[La proprietà e i diritti reali#Facoltà di godimento|godere]] e [[La proprietà e i diritti reali#Facoltà di disposizione|disporre]] di una cosa. Questo significato si è mantenuto nel tempo fino all’uso moderno del termine "proprietà", che indica il diritto pieno ed esclusivo su un bene.
+- Il termine latino _proprietas_ si riferisce al concetto di appartenenza esclusiva di un bene, o meglio, al diritto esclusivo di [[1-La proprietà e i diritti reali#Facoltà di godimento|godere]] e [[1-La proprietà e i diritti reali#Facoltà di disposizione|disporre]] di una cosa. Questo significato si è mantenuto nel tempo fino all’uso moderno del termine "proprietà", che indica il diritto pieno ed esclusivo su un bene.
 ## Diritti
 
 - La parola **"diritti"** deriva dal latino _"directus"_, participio passato del verbo _"dirigere"_, che significa "guidare", "regolare".
