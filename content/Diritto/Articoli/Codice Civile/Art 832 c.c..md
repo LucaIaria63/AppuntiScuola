@@ -1,6 +1,6 @@
 # Articolo
 
-- Il proprietario ha il diritto di [[1-La proprietà e i diritti reali#Facoltà di godimento|godere]] e [[1-La proprietà e i diritti reali#Facoltà di disposizione|disporre]] delle cose in  modo  [[1-La proprietà e i diritti reali#Caratteristiche|pieno]]  ([[Art 832 c.c.#(1)|1]])  ed  [[1-La proprietà e i diritti reali#Caratteristiche|esclusivo]] ([[Art 832 c.c.#(2)|2]]), entro i limiti e con l'osservanza degli obblighi stabiliti dall'ordinamento giuridico ([[Art 42 Cost.]])
+- Il proprietario ha il diritto di [[1-La proprietà in generale#Facoltà di godimento|godere]] e [[1-La proprietà in generale#Facoltà di disposizione|disporre]] delle cose in  modo  [[1-La proprietà in generale#Caratteristiche|pieno]]  ([[Art 832 c.c.#(1)|1]])  ed  [[1-La proprietà in generale#Caratteristiche|esclusivo]] ([[Art 832 c.c.#(2)|2]]), entro i limiti e con l'osservanza degli obblighi stabiliti dall'ordinamento giuridico ([[Art 42 Cost.]])
 
 # Note
 

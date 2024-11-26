@@ -1,6 +1,6 @@
 # Articolo
 
-- La [[1-La proprietà e i diritti reali|proprieta]] è pubblica [[Art 822 c.c.]] o privata [[Art 832 c.c.]] ([[Art 42 Cost.#(1)|1]]).  
+- La [[1-La proprietà in generale|proprieta]] è pubblica [[Art 822 c.c.]] o privata [[Art 832 c.c.]] ([[Art 42 Cost.#(1)|1]]).  
   
   I beni economici appartengono allo Stato, ad enti o a privati.  
   

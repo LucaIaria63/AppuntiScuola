@@ -4,24 +4,29 @@ title: Homepage
 # 3° Anno
 
 ## Diritto (Non aggiornato fino alla fine)
-### Capitolo 1
+### Tema 1
+#### Capitolo 1
 
-- [[1-La proprietà e i diritti reali]]
+- [[1-La proprietà in generale]]
 - [[1.5-Tipi di diritti]]
 - [[2-La proprietà immobiliare]]
-- [[4-I limiti della proprietà nell'interesse pubblico]]
+- [[3-I limiti della proprietà nell'interesse pubblico]]
 - [[4-I limiti della proprietà nell'interesse privato]]
 - [[5-Modi di acquisto della proprietà]]
-### Capitolo 2
-
+- [[6-Azioni a difesa della proprietà]]
+#### Capitolo 2
 - [[1-La comproprietà]]
+- [[2-Il condominio]]
 - [[La comunione dei diritti]]
-- [[Il condominio]]
+#### Capitolo 3
 - [[1-Diritti reali di godimento]]
+#### Capitolo 4
 - [[1-Possesso e detenzione]]
-- [[Azioni a difesa della proprietà]]
+### Tema 2
+#### Capitolo 5
+- [[1-Le obbligazioni]]
 
-## Economia Aziendale (Fino a pag.15)
+## Economia Aziendale
 ### Modulo 1
 #### Unità 1
 - [[01-Elementi costitutivi di un'azienda]]
@@ -79,5 +84,5 @@ title: Homepage
 - 
 
 ## Storia (Manca il discorso musulmani e temi antecedenti al terzo capitolo)
--  [[4-Le riforme per liberare la chiesa]]
+- [[4-Le riforme per liberare la chiesa]]
 - [[5-Conflitto tra papato e impero]]

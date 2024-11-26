@@ -1,5 +1,5 @@
 # Caratteristiche
-- [[1-La proprietà e i diritti reali#Reali|Reali]]
+- [[1-La proprietà in generale#Reali|Reali]]
 - [[1.5-Tipi di diritti#Assoluto|Assoluti]]
 - [[Diritto/Definizioni universali#Tipici|Tipici]]
 # Sono
