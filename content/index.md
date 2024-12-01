@@ -33,9 +33,9 @@ title: Homepage
 - [[2-La costituzione di un'impresa individuale con apporto in natura (conferimento disgiunto)]]
 #### Acquisto di beni e di servizi
 - [[1-Acquisto|1-Acquisto di merci con pagamento a pronti]]
-- [[2-Acquisto di merci con spese (di trasporto, etc.) forfetarie e pagamento a scadenza con interessi]]
-- [[3-Acquisto di merci con spese (di trasporto, etc.) documentate e pagamento a pronti]]
-- [[4-Acquisto di merci con versamento di anticipo o acconto e pagamento a pronti]]
+- [[2-Acquisto|2-Acquisto di merci con spese (di trasporto, etc.) forfetarie e pagamento a scadenza con interessi]]
+- [[3-Acquisto|3-Acquisto di merci con spese (di trasporto, etc.) documentate e pagamento a pronti]]
+- [[4-Acquisto|4-Acquisto di merci con versamento di anticipo o acconto e pagamento a pronti]]
 - [[5-Acquisto di merci, resi (o ribassi e abbuoni) su acquisti; pagamento a dilazione]]
 - [[6-Acquisto di merci, successiva fattura per interessi; pagamento a scadenza]]
 - [[7-Acquisto di servizi con pagamento a pronti]]
