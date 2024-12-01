@@ -32,7 +32,7 @@ title: Homepage
 - [[1|1-La costituzione di un'impresa individuale con apporto di denaro (denaro in cassa e conto corrente bancario)]]
 - [[2-La costituzione di un'impresa individuale con apporto in natura (conferimento disgiunto)]]
 #### Acquisto di beni e di servizi
-- [[1-Acquisto di merci con pagamento a pronti]]
+- [[1-Acquisto|1-Acquisto di merci con pagamento a pronti]]
 - [[2-Acquisto di merci con spese (di trasporto, etc.) forfetarie e pagamento a scadenza con interessi]]
 - [[3-Acquisto di merci con spese (di trasporto, etc.) documentate e pagamento a pronti]]
 - [[4-Acquisto di merci con versamento di anticipo o acconto e pagamento a pronti]]
@@ -41,7 +41,7 @@ title: Homepage
 - [[7-Acquisto di servizi con pagamento a pronti]]
 - [[8-Ricevimento e pagamento di fattura del professionista per la costruzione dell'impresa]]
 - [[9-Ricevimento e pagamento di fattura per prestazione di un professionista (avvocato, notaio, commercialista)]]
-- [[10-Acquisto di beni pluriennali materiali; eventuali costi di installazione e collaudo capitalizzati in conto (patrimonializzati). Pagamento a scadenza]]
+- [[10-Acquisto|10-Acquisto di beni pluriennali materiali; eventuali costi di installazione e collaudo capitalizzati in conto (patrimonializzati). Pagamento a scadenza]]
 #### Vendita di beni e prestazione di servizi
 - [[1-Vendita di merci con incasso a pronti]]
 - [[2-Vendita di merci con spese (di trasporto, etc.) forfetarie e incasso dilazionato con interessi]]
