@@ -4,7 +4,7 @@
 
 ## Schema riassuntivo
 
-![[Economia Aziendale/3°/Modulo 1/Unità 1/Schema/Schema-03.png]]
+![[content/Economia Aziendale/3°/Modulo 1/Unità 1/Schema/Schema-03.png]]
 
 ## Il valore economico
 - *Si genera **nuovo valore economico** (nuova ricchezza) quando il valore dei beni o servizi prodotti è superiore al valore dei fattori produttivi utilizzati (input).*

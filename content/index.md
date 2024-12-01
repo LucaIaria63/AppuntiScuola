@@ -27,8 +27,30 @@ title: Homepage
 - [[1-Le obbligazioni]]
 
 ## Economia Aziendale
-### Modulo 1
-#### Unità 1
+### Partita doppia
+#### Costituzione di impresa individuale
+- [[1-La costituzione di un'impresa individuale con apporto di denaro (denaro in cassa e conto corrente bancario)]]
+- [[2-La costituzione di un'impresa individuale con apporto in natura (conferimento disgiunto)]]
+#### Acquisto di beni e di servizi
+- [[1-Acquisto di merci con pagamento a pronti]]
+- [[2-Acquisto di merci con spese (di trasporto, etc.) forfetarie e pagamento a scadenza con interessi]]
+- [[3-Acquisto di merci con spese (di trasporto, etc.) documentate e pagamento a pronti]]
+- [[4-Acquisto di merci con versamento di anticipo o acconto e pagamento a pronti]]
+- [[5-Acquisto di merci, resi (o ribassi e abbuoni) su acquisti; pagamento a dilazione]]
+- [[6-Acquisto di merci, successiva fattura per interessi; pagamento a scadenza]]
+- [[7-Acquisto di servizi con pagamento a pronti]]
+- [[8-Ricevimento e pagamento di fattura del professionista per la costruzione dell'impresa]]
+- [[9-Ricevimento e pagamento di fattura per prestazione di un professionista (avvocato, notaio, commercialista)]]
+- [[10-Acquisto di beni pluriennali materiali; eventuali costi di installazione e collaudo capitalizzati in conto (patrimonializzati). Pagamento a scadenza]]
+#### Vendita di beni e prestazione di servizi
+- [[1-Vendita di merci con incasso a pronti]]
+- [[2-Vendita di merci con spese (di trasporto, etc.) forfetarie e incasso dilazionato con interessi]]
+- [[3-Vendita di merci con spese (di trasporto, etc.) documentate e incasso a termine]]
+- [[4-Vendita di merci con ricevimento di anticipo o acconto e incasso a pronti]]
+- [[5-Vendita di merci, resi (o ribassi e abbuoni) su vendita; incasso a termine]]
+### Libro
+#### Modulo 1
+##### Unità 1
 - [[01-Elementi costitutivi di un'azienda]]
 - [[02-La classificazione delle aziende]]
 - [[03-La creazione di valore]]
@@ -41,7 +63,7 @@ title: Homepage
 - [[10-Il sistema produttivo nazionale]]
 - [[11]]
 - [[12]]
-#### Unità 2
+##### Unità 2
 - [[01-Il concetto di organizzazione]]
 - [[02-La struttura organizzativa]]
 - [[03-Gli organi aziendali]]
