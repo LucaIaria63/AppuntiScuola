@@ -29,8 +29,8 @@ title: Homepage
 ## Economia Aziendale
 ### Partita doppia
 #### Costituzione di impresa individuale
-- [[1|1-La costituzione di un'impresa individuale con apporto di denaro (denaro in cassa e conto corrente bancario)]]
-- [[2-La costituzione di un'impresa individuale con apporto in natura (conferimento disgiunto)]]
+- [[1-Costituzione|1-La costituzione di un'impresa individuale con apporto di denaro (denaro in cassa e conto corrente bancario)]]
+- [[2-Costituzione|2-La costituzione di un'impresa individuale con apporto in natura (conferimento disgiunto)]]
 #### Acquisto di beni e di servizi
 - [[1-Acquisto|1-Acquisto di merci con pagamento a pronti]]
 - [[2-Acquisto|2-Acquisto di merci con spese (di trasporto, etc.) forfetarie e pagamento a scadenza con interessi]]
