@@ -1,5 +1,7 @@
 ---
 title: Perché esiste la musica?
+tags:
+  - Articoli_di_scuola_2024-25
 ---
 # Introduzione
 Perché? La domanda che a volte sfiora la mente dell'umanità in questo caso *perché esiste la musica?* In questo articolo vorrei rispondere a questa domanda da vari punti di vista, lasciandone uno che magari vi soddisferà.
@@ -34,6 +36,7 @@ La domanda *Perchè esiste la musica?* ha la stessa risposta a *Perchè esiste i
 ## Dal punto di vista sociale
 Qua a differenza dello scorso punto, quando sia parla del perché esiste dal punto di vista sociale si intende perché **continuiamo** a fare musica? E una risposta abbastanza semplice e secca è come sia capace di legare le persone, un lubrificante sociale, qualcosa in grado di connettere le persone.
 
-Uno dei tanti esempi che si possono fare sono gli inni delle nazioni, come servano per **comunicare** un messaggio di "Noi siamo un popolo unito", e i cittadini quando sentono l'inno vengono inondati da un senso di unità piacevole.
+Uno dei tanti esempi che si possono fare sono gli inni delle nazioni, come servano per **comunicare** un messaggio di "Noi siamo un popolo unito", e i cittadini quando sentono l'inno vengono inondati da un senso unità.
 
+Al posto di parlare di questo senso di unità si può piuttosto parlare di un **emozione**, che la musica fa provare agli ascoltatori che provoca tra di loro **empatia**  
 ## Dal punto di vista filosofico
