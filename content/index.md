@@ -24,7 +24,7 @@ title: Homepage
 - [[1-Possesso e detenzione]]
 ### Tema 2
 #### Capitolo 5
-- [[1-Le obbligazioni]]
+- [[1-I diritti di credito e le obbligazioni]]
 
 ## Economia Aziendale
 ### Partita doppia
