@@ -78,7 +78,7 @@ title: Homepage
 ## Economia politica (Mancano parti finali)
 ### Modulo 1
 #### Capitolo 1
-- [[content/Economia politica/3°/Modulo 1/Capitolo 1/Introduzione|Introduzione]]
+- [[Introduzione|Introduzione]]
 - [[Rami della scienza economica]]
 - [[L'informazione economica]]
 - [[I metodi del economista]]
