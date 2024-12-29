@@ -35,3 +35,10 @@
 ---
 # Imperizia
 - mancanza di conoscenza
+---
+# Contributi
+- Sono obbligatori
+- Gli paghi per i tuoi diritti
+# Imposte
+- [[Diritto/Definizioni universali#Coattivo|coattive]]
+- tutti

@@ -1,7 +1,7 @@
 ---
 title: Perché esiste la musica?
 tags:
-  - Articoli_di_scuola_2024-25
+  - Articoli_di_scuola_2024-25_mai_pubblicati
 ---
 # Introduzione
 Perché? La domanda che a volte sfiora la mente dell'umanità in questo caso *perché esiste la musica?* In questo articolo vorrei rispondere a questa domanda da vari punti di vista, lasciandone uno che magari vi soddisferà.

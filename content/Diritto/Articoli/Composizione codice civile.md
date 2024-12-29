@@ -8,7 +8,7 @@
 # Libri
 
 - ==Delle persone e della famiglia==: (Artt. 1 - 455)
-- ==Delle succcessioni==: (Artt. 456 - 809)
+- ==Delle successioni==: (Artt. 456 - 809)
 - ==Della proprietà==: (Artt. 810 - 1172)
 - ==Delle obbligazioni==: (Artt. 1173 - 2059)
 - ==Del lavoro==: (Artt. 2060 - 2642)

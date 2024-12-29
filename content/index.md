@@ -4,7 +4,11 @@ title: Homepage
 # 3° Anno
 
 # Articoli
+## Mai pubblicati
 - [[Perché esiste la musica|Perché esiste la musica?]]
+- [[Non solo a Natale puoi]]
+## In corso
+## Pubblicati
 ## Diritto (Non aggiornato fino alla fine)
 ### Tema 1
 #### Capitolo 1
@@ -27,6 +31,8 @@ title: Homepage
 ### Tema 2
 #### Capitolo 5
 - [[1-I diritti di credito e le obbligazioni]]
+### [[Diritto/Definizioni universali|Definizioni universali]]
+### [[Composizione codice civile]]
 
 ## Economia Aziendale
 ### Partita doppia
@@ -82,18 +88,21 @@ title: Homepage
 - [[Soggetti e Sistema Economico]]
 - [[Fenomeni economici]]
 - [[Distribuzione Commerciale]]
+- [[Il lavoro]]
+- [[Il consumo]]
 
 ## Educazione Civica
 - 
 
 ## Informatica
+- [[11-A tag]]
 - [[12-Frame]]
 
 ## Lingua inglese
 - 
 
 ## Lingua e Letteratura italiana
-- 
+- [[Alto medioevo]]
 
 ## Matematica
 - 
