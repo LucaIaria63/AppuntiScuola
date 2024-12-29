@@ -10,7 +10,9 @@
 # Indennizzo
 - Risarcimento in denaro per una lesione di un diritto subita in modo legale
 ---
-# Contratto ![[Art 1321 c.c.#Articolo]]
+# Contratto 
+![[Art 1321 c.c.#Articolo]]
+
 ---
 # Titolo
 - Atto o fatto giuridico che costituisce il fondamento di un diritto
