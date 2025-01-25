@@ -1,0 +1,1 @@
+Per ogni impresa è importante creare un efficace sistema comunicativo 

@@ -8,11 +8,11 @@ title: Homepage
 - [[Perché esiste la musica|Perché esiste la musica?]]
 - [[Non solo a Natale puoi]]
 ## In corso
+- [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano]]
 ## Pubblicati
 ## Diritto (Non aggiornato fino alla fine)
 ### Tema 1
 #### Capitolo 1
-
 - [[1-La proprietà in generale]]
 - [[1.5-Tipi di diritti]]
 - [[2-La proprietà immobiliare]]
@@ -90,7 +90,6 @@ title: Homepage
 - [[Distribuzione Commerciale]]
 - [[Il lavoro]]
 - [[Il consumo]]
-
 ## Educazione Civica
 - 
 
