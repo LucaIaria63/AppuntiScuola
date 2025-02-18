@@ -31,6 +31,9 @@ title: Homepage
 ### Tema 2
 #### Capitolo 5
 - [[1-I diritti di credito e le obbligazioni]]
+### Tema 3
+#### Capitolo 9
+- [[1-Le classificazioni dei contratti]]
 ### [[Diritto/Definizioni universali|Definizioni universali]]
 ### [[Composizione codice civile]]
 
