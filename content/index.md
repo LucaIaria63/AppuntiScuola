@@ -9,6 +9,7 @@ title: Homepage
 - [[Non solo a Natale puoi]]
 ## In corso
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano]]
+- [[Il metodo di studio]]
 ## Pubblicati
 ## Diritto (Non aggiornato fino alla fine)
 ### Tema 1
