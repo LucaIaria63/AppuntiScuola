@@ -22,6 +22,7 @@ Secondo un sondaggio del [Thriving Center of Psychology](https://thrivingcentero
 - Non si prova una connessione abbastanza forte : _41%_
 - Erano state offese da qualcosa : _39%_
 - Soffrendo per problemi mentali : _29%_
+
 Questi dati ci suggeriscono come il ghosting sia una forma di fuga emotiva per le persone, un modo per terminare i rapporti che ormai con la tecnologia sono diventati più brevi, di meno valore e con un coinvolgimento emotivo ridotto, se una relazione non funziona perché continuarla? Questo è il ragionamento cardine della questione
 # Chi ghosta?
 Il ghosting non è una cosa prettamente maschile o femminile, ne delle nuove generazioni anche se queste ultime sono tendenzialmente più propense a farlo. L'unico fattore che ci mostra una forte propensione è il narcisismo, quando le persone si mettono al centro per se stesse, evitando le proprie responsabilità verso l'altra persona. 
