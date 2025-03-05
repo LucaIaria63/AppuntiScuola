@@ -5,10 +5,10 @@ title: Homepage
 
 # Articoli
 ## Mai pubblicati
-- [[Perché esiste la musica|Perché esiste la musica?]]
+- [[content/Articoli/Perché esiste la musica|Perché esiste la musica?]]
 - [[Non solo a Natale puoi]]
 ## In corso
-- [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano]]
+- [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano 2]]
 - [[Il metodo di studio]]
 ## Pubblicati
 ## Diritto (Non aggiornato fino alla fine)
@@ -102,7 +102,8 @@ title: Homepage
 - [[12-Frame]]
 
 ## Lingua inglese
-- 
+### Unit three Business organisations
+- [[1. Private and public enterprise]]
 
 ## Lingua e Letteratura italiana
 - [[Alto medioevo]]

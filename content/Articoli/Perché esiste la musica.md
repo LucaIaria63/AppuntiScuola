@@ -5,7 +5,6 @@ tags:
 ---
 # Introduzione
 Perché? La domanda che a volte sfiora la mente dell'umanità in questo caso *perché esiste la musica?* In questo articolo vorrei rispondere a questa domanda da vari punti di vista, lasciandone uno che magari vi soddisferà.
-
 # Presupposti 
 Questa domanda come tante altre è posta "male" perché non permette una risposta precisa, per esempio alla domanda *Di che colore era il cavallo bianco di Napoleone?* chiede implicitamente un colore (in questo caso bianco, per favore fatemi questa domanda all'esame di maturità); La domanda *Perché esiste la musica?* non chiede implicitamente nulla bensì è generica, non si capisce se chieda una data, delle indicazioni, un luogo etc.
 
