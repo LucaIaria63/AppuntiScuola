@@ -81,7 +81,7 @@ title: Homepage
 - [[02-La struttura organizzativa]]
 - [[03-Gli organi aziendali]]
 ## Economia politica (Mancano parti finali)
-### Modulo 1
+### Tema 1
 #### Capitolo 1
 - [[Introduzione|Introduzione]]
 - [[Rami della scienza economica]]
@@ -92,9 +92,12 @@ title: Homepage
 - [[Il problema delle scelte]]
 - [[Soggetti e Sistema Economico]]
 - [[Fenomeni economici]]
+#### Capitolo 3
 - [[Distribuzione Commerciale]]
 - [[Il lavoro]]
 - [[Il consumo]]
+- [[Lo scambio]]
+- [[I circuiti economici reali e monetari]]
 ## Educazione Civica
 - 
 

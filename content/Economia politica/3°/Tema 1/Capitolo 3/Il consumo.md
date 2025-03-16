@@ -10,5 +10,4 @@
 # Il consumismo
 - è la necessita di acquistare anche senza bisogno
 - è un fenomeno di natura economica ma anche sociologica e psicologica
-	- ha molteplici implicazioni
-	- l'altro problema è l'esaurimento rapido che non permette la rigenerazione naturale
+	- provoca il rapido esaurimento delle risorse che non permette la rigenerazione naturale
