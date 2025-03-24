@@ -10,6 +10,7 @@ title: Homepage
 ## In corso
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano 2]]
 - [[Il metodo di studio]]
+- 
 ## Finiti
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano Finale]]
 ## Pubblicati
