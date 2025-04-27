@@ -100,6 +100,12 @@ title: Homepage
 - [[Il consumo]]
 - [[Lo scambio]]
 - [[I circuiti economici reali e monetari]]
+### Tema 3 
+#### Capitolo 3
+##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
+- [[1. I ricavi]]
+- [[2. Il profitto]]
+- [[3. L'equilibrio economico]]
 ## Educazione Civica
 - 
 
