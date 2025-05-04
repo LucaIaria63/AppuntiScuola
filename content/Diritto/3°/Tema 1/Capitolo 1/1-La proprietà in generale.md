@@ -12,7 +12,7 @@
 - Il termine **"reali"** in questo contesto deriva dal latino _"res"_, che significa "cosa" o "bene".
 - I **diritti reali** sono quindi quei diritti che hanno come oggetto una **"res"** (una cosa). 
 # Articoli
-- Ci sono 2 articoli che parlano di proprietà il [[Art 42 Cost.|42]] della costituzione e l'[[Art 832 c.c.|832 c.c.]]
+- Ci sono 2 articoli che parlano di proprietà il [[Art. 42 Cost.|42]] della costituzione e l'[[Art. 832 c.c.|832 c.c.]]
 ## Spiegazione Art. 42 
 ### Può essere
 #### Pubblica
@@ -32,5 +32,5 @@
 - ==Imprescrivibile==: Se il proprietario non esercita il diritto di proprietà non scade
 - ==Elastico==: Se il diritto viene limitato quando la limitazione finisce ritorna pieno
 # Fonti
-- [[Art 42 Cost.]]
-- [[Art 832 c.c.]]
+- [[Art. 42 Cost.]]
+- [[Art. 832 c.c.]]

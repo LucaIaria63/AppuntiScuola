@@ -11,7 +11,7 @@
 - Risarcimento in denaro per una lesione di un diritto subita in modo legale
 ---
 # Contratto 
-![[Art 1321 c.c.#Articolo]]
+![[Art. 1321 c.c.#Articolo]]
 
 ---
 # Titolo
@@ -44,3 +44,12 @@
 # Imposte
 - [[Diritto/Definizioni universali#Coattivo|coattive]]
 - tutti
+---
+# Volontario
+- Si basa sull'incontro delle volontà
+---
+# Bilaterale/Plurilaterale
+- Richiede la manifestazione delle volontà e l'accordo tra le parti 
+---
+# Patrimoniale
+- Riguarda un contenuto di natura economica 

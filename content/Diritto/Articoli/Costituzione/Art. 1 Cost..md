@@ -1,5 +1,5 @@
 # Articolo
-L'Italia è una Repubblica democratica [[Art 139 Cost.]], fondata sul lavoro ([[Art 1 Cost.#(1)|1]]) [[Art 4 Cost.]]
+L'Italia è una Repubblica democratica [[Art 139 Cost.]], fondata sul lavoro ([[Art. 1 Cost.#(1)|1]]) [[Art. 4 Cost.]]
   
 La sovranità appartiene al popolo ([[Art 48 Cost.|48]], [[Art 56 Cost.|56]], [[Art 58 Cost.|58]], [[Art 60 Cost.|60]], [[Art 101 Cost.|101]]) che la esercita nelle forme e nei limiti della Costituzione.
 

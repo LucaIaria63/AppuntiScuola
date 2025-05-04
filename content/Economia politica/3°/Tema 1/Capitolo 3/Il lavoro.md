@@ -1,5 +1,5 @@
 # Dal punto di vista giuridico
-- Il lavoro è uno dei diritti principali [[Art 4 Cost.]] e fondanti della repubblica italiana [[Art 1 Cost.]] e tutelati [[Art 35 Cost.]].
+- Il lavoro è uno dei diritti principali [[Art. 4 Cost.]] e fondanti della repubblica italiana [[Art. 1 Cost.]] e tutelati [[Art. 35 Cost.]].
 # Dal punto di vista economico
 - Il lavoro viene fornito dalla [[Soggetti e Sistema Economico#Famiglia|famiglia]] lo richiede [[Soggetti e Sistema Economico#L'impresa|l'impresa]]
 ## Definizione

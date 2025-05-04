@@ -9,8 +9,8 @@ tags:
 ## Fattori giuridici
 - In base all'ordinamento giuridico
 ### Esempi
-- Il diritto di [[Art 832 c.c.|proprietà privata]]
-- [[Art 1321 c.c.|Contratti]] di lavoro
+- Il diritto di [[Art. 832 c.c.|proprietà privata]]
+- [[Art. 1321 c.c.|Contratti]] di lavoro
 - Diritto del lavoro
 - [[Economia politica/Definizioni universali#Legislazione sociale|Legislazione sociale]]
 - Diritto di iniziativa economica

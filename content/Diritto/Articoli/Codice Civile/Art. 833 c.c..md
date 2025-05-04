@@ -1,6 +1,6 @@
 # Articolo
 
-- Il proprietario non può fare atti i quali non abbiano altro scopo che quello di nuocere o recare molestia ad altri ([[Art 833 c.c.#(1)|1]]).
+- Il proprietario non può fare atti i quali non abbiano altro scopo che quello di nuocere o recare molestia ad altri ([[Art. 833 c.c.#(1)|1]]).
 
 # Note
 
