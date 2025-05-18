@@ -7,4 +7,4 @@
 # Obblighi
 - Partecipare alle spese
 # Quota
-- Ogni partecipazione alla comproprietà è proprietaria di una quota che indica una ==**parte ideale**== del bene comune e misura la partecipazione ai diritti e agli obblighi della [[La comunione dei diritti|comunione]], le quote sono solitamente uguali
+- Ogni partecipazione alla comproprietà è proprietaria di una quota che indica una ==**parte ideale**== del bene comune e misura la partecipazione ai diritti e agli obblighi della [[3-La comunione dei diritti|comunione]], le quote sono solitamente uguali

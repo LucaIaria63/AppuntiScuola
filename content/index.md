@@ -18,7 +18,7 @@ title: Homepage
 ### Tema 1
 #### Capitolo 1
 - [[1-La proprietà in generale]]
-- [[1.5-Tipi di diritti]]
+- [[1.1-Tipi di diritti]]
 - [[2-La proprietà immobiliare]]
 - [[3-I limiti della proprietà nell'interesse pubblico]]
 - [[4-I limiti della proprietà nell'interesse privato]]
@@ -27,7 +27,7 @@ title: Homepage
 #### Capitolo 2
 - [[1-La comproprietà]]
 - [[2-Il condominio]]
-- [[La comunione dei diritti]]
+- [[3-La comunione dei diritti]]
 #### Capitolo 3
 - [[1-Diritti reali di godimento]]
 #### Capitolo 4
@@ -38,10 +38,14 @@ title: Homepage
 ### Tema 3
 #### Capitolo 9
 - [[1-Le classificazioni dei contratti]]
-- [[2-La responsabilità diretta o per fatto proprio]]
 ### Tema 4
 #### Capitolo 13
 - [[1-La responsabilità civile]]
+- [[2-La responsabilità diretta o per fatto proprio]]
+- [[2.1-L'imputabilità civile e penale]]
+- [[2.2-Il rapporto di casualità]]
+- [[2.3-Comportamento illecito colposo o doloso]]
+- [[3-Le cause di giustificazione]]
 ### [[Diritto/Definizioni universali|Definizioni universali]]
 ### [[Composizione codice civile]]
 
