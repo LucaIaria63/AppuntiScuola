@@ -10,7 +10,7 @@ title: Homepage
 ## In corso
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano 2]]
 - [[Il metodo di studio]]
-- 
+- [[La storia della schwa(ə)]]
 ## Finiti
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano Finale]]
 ## Pubblicati
@@ -38,6 +38,10 @@ title: Homepage
 ### Tema 3
 #### Capitolo 9
 - [[1-Le classificazioni dei contratti]]
+- [[2-La responsabilità diretta o per fatto proprio]]
+### Tema 4
+#### Capitolo 13
+- [[1-La responsabilità civile]]
 ### [[Diritto/Definizioni universali|Definizioni universali]]
 ### [[Composizione codice civile]]
 

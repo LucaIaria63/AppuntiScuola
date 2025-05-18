@@ -21,7 +21,10 @@
 - Atto giuridico i cui effetti non dipendono dalla morte di una persona
 ---
 # Tipici
-- comprendono soltanto i diritti indicati in modo tassativo dalla legge
+- quando si comprende solo un qualcosa previsto in modo tassativo dalla legge
+---
+# Atipici
+- quando si comprende anche un qualcosa non previsto in modo tassativo dalla legge
 ---
 # Doloso
 - volontario
