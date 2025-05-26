@@ -1,7 +1,9 @@
 # Indice
-- [[#Fonti / Approfondimenti]]
 - [[#Cos'è la schwa(ə)?]]
+- [[#Fonti / Approfondimenti]]
 # Cos'è la schwa(ə)?
+La schwa(ə) è una vocale fonetica neutra, che si pronuncia ==Inserire==, una vocale presente nel alfabetico fonetico internazionale, un alfabeto che si usa per specificare le pronunce delle parole di conseguenza non c'è una lingua in cui si trova in forma scritta ma si trova solo oralmente.
+Le lingue in cui si trova sono per esempio l'inglese (sofa), il francese 
 
 # Fonti / Approfondimenti
 ## Yasmina Pani
@@ -22,3 +24,8 @@
 - [Proposta di un'unica lingua mondiale matematica (e perché la preferisco sia teoricamente sia praticamente alla Scevà)](https://t.me/mortebianca/10218)
 ## Il post
 - [Cos’è lo schwa, e come si pronuncia](https://www.ilpost.it/2020/08/28/schwa/)
+## Vera Gheno
+- [Il potere delle parole giuste | TEDxMontebelluna](https://youtu.be/BTZq2q_Cicg?si=vweeBmTx4BwQQHRo)
+- [Brevissima storia dello schwa | TEDxFirenzeStudio](https://youtu.be/UCx9t2OLOSY?si=YTgUxVxstrXnV1ny)
+## Wikipedia
+- [Pagina wikipedia della schwa(ə)](https://it.wikipedia.org/wiki/%C6%8F)

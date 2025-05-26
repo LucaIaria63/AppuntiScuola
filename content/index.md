@@ -90,7 +90,7 @@ title: Homepage
 - [[01-Il concetto di organizzazione]]
 - [[02-La struttura organizzativa]]
 - [[03-Gli organi aziendali]]
-## Economia politica (Mancano parti finali)
+## Economia politica
 ### Tema 1
 #### Capitolo 1
 - [[Introduzione|Introduzione]]
