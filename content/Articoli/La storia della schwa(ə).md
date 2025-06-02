@@ -1,6 +1,6 @@
 # Indice
 - [[#Cos'è la schwa(ə)?]]
-- [[#Perchè se ne parla?]]
+- [[#Perché se ne parla?]]
 - [[#Pregi e difetti]]
 - [[#Esempi generali]]
 - [[#Pensiero finale]]
