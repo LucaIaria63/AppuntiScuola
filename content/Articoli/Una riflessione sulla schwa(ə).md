@@ -7,7 +7,6 @@
 - [[#Fonti / Approfondimenti]]
 # Cos'è la schwa(ə)?
 La schwa (ə) è una vocale utilizzata nell'alfabeto fonetico internazionale, insieme ad altri simboli, per rappresentare il suono neutro di alcune vocali. È presente in diverse lingue, come l'inglese (nella "a" della parola sofa), il francese (nella "e" della parola celui che significa quello) e il tedesco (nella "e" della parola Mutter che significa madre).
-
 # Perché se ne parla?
 Questa vocale è stata proposta in modo provocatoria da Vera Gheno (e ricompare periodicamente online) come soluzione per due questioni della lingua italiana:
 - Il maschile sovra esteso / generalizzato
