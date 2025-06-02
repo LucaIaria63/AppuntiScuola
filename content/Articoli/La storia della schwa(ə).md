@@ -8,19 +8,19 @@
 # Cos'è la schwa(ə)?
 La schwa (ə) è una vocale utilizzata nell'alfabeto fonetico internazionale, insieme ad altri simboli, per rappresentare il suono neutro di alcune vocali. È presente in diverse lingue, come l'inglese (nella "a" della parola sofa), il francese (nella "e" della parola celui che significa quello) e il tedesco (nella "e" della parola Mutter che significa madre).
 
-# Perchè se ne parla?
+# Perché se ne parla?
 Questa vocale è stata proposta in modo provocatoria da Vera Gheno (e ricompare periodicamente online) come soluzione per due questioni della lingua italiana:
 - Il maschile sovra esteso / generalizzato
 - La difficoltà del riferirsi alle persone non binarie
 # Pregi e difetti
 I principali pregi sono:
-- La schwa(ə) a differenza dei predecessori (quali la @, l'asterisco e molti altri) non è già usata 
-- Ha una pronuncia
+- La schwa(ə) a differenza di alcune proposte precedenti (quali per esempio la @ e l'asterisco) non è già usata nel parlato e nello scritto  
+- Ha una pronuncia definita a differenza di altre opzioni impronunciabili nel verbale
 - è una forma di linguaggio che punta ad includere più persone (Es. al posto di "tutti" si usa "tuttə")
 - L'assenza di un genere "favorito" (nell'italiano il maschile)
 Ma i difetti principali sono:
 - L'essere problematica da leggere per le persone dislessiche (si confonde con la "a" e la "e")
-- L'essere deontologica (è una proposta sul come dovrebbe essere l'obbiettivo della lingua e non sul com'è) spiegandomi peggio la lingua si è strutturata nel tempo per essere efficiente nella comunicazione e fare un aggiunta sarebbe una complicazione che andrebbe contro l'obbiettivo stesso della lingua ossia essere di facile comprensione
+- L'essere deontologica (è una proposta sul come dovrebbe essere la lingua e non sul com'è) spiegandomi peggio la lingua si è strutturata nel tempo per essere efficiente nella comunicazione e fare un aggiunta sarebbe una complicazione che andrebbe contro l'obiettivo stesso della lingua ossia essere di facile comprensione
 # Esempi generali
 Gruppo di persone composto sia da maschi sia da femmine sia da persone non binarie:
 - Ciao a tuttə!
@@ -29,7 +29,9 @@ Singola persona non binaria:
 - Carə come stai?
 - Benventə entra pure
 # Pensiero finale
-Penso che la schwa(ə) abbia troppi problemi e che non sarà mai applicabile nella realtà (anche se Vera Gheno in successive interviste aveva confermato come fosse una provocazione per portare a una riflessione) e io la trovo così, una mossa politica per ricordare che esistono le persone non binarie e per ricordare che purtroppo esistono ancora retaggi di natura patriarcale nel mondo moderno, anche se questi non sono usati coscientemente dai parlanti (per esempio Mercadini aveva parlato della parola gentile, che deriva da gens (signore) e che risultava essere il contrario di ebreo), e che addirittura questa natura di genere che noi applichiamo alle parole sono solo classi (dei gruppi) da un punto di vista linguistico, il fatto che coincida non è totalmente una casualità ma allo stesso tempo non ha un significato rilevante 
+Penso che la schwa(ə) abbia troppi problemi e che non sarà mai applicabile nella realtà, addirittura Vera Gheno in successive interviste aveva confermato come fosse una provocazione per portare a una riflessione e io la trovo così, una mossa politica per ricordare che esistono le persone non binarie e per ricordare che purtroppo esistono ancora retaggi (di natura patriarcale o di altre realtà negative) nel mondo moderno, anche se questi non sono usati coscientemente dai parlanti in alcuni casi (per esempio Mercadini aveva parlato della parola gentile, che deriva da gens (signore) e che risultava essere il contrario di ebreo), e che (come aveva fatto notare Yasmina Pani) addirittura questa natura di genere che noi applichiamo alle parole sono solo classi (dei gruppi) da un punto di vista linguistico, il fatto che coincidano con il genere non è totalmente una casualità ma allo stesso tempo non ha un significato rilevante.
+
+In sintesi penso che sia carina come opzione politica e come "memento mori" (frase che significa "ricordati che devi morire") rispetto alle questioni di genere e di discriminazione che personalmente mi piace usare, e penso che sia difficilmente applicabile nella realtà se non per ambienti di dimensioni ridotti (mi è capitato di trovare ambienti in cui viene usata con tranquillità), una vera soluzione sarebbe una nuova lingua fatta da zero senza preconcetti e difetti, piena di parole per esprimere idee senza limiti (Il progetto Leibniziano, l'audio di Mortebianca approfondisce).
 # Fonti / Approfondimenti
 ## Yasmina Pani
 - [Schwa, asterischi e genere neutro](https://youtu.be/gHFo-lNXmDk?si=z6GJ58cq0zefOzim)
@@ -54,3 +56,14 @@ Penso che la schwa(ə) abbia troppi problemi e che non sarà mai applicabile nel
 - [Brevissima storia dello schwa | TEDxFirenzeStudio](https://youtu.be/UCx9t2OLOSY?si=YTgUxVxstrXnV1ny)
 ## Wikipedia
 - [Pagina wikipedia della schwa(ə)](https://it.wikipedia.org/wiki/%C6%8F)
+
+
+
+Penso che la schwa (ə) presenti troppi problemi per essere realmente applicabile nella pratica quotidiana. Vera Gheno stessa, in alcune interviste successive, ha chiarito che la sua proposta aveva anche una valenza provocatoria, per stimolare una riflessione più ampia sul linguaggio.
+ 
+ Personalmente, interpreto questa proposta come un gesto politico e simbolico, utile a ricordarci che esistono anche le persone non binarie, e che la lingua può riflettere – spesso inconsapevolmente – retaggi culturali legati a strutture patriarcali o ad altre forme di esclusione.
+
+Ad esempio, Roberto Mercadini ha osservato che la parola “gentile” deriva da gens (cioè “nobile casata”), in opposizione alla parola “ebreo”, mostrando come alcuni significati originari siano portatori di visioni superate o discriminatorie, anche se ormai scollegate dal nostro uso quotidiano.  
+Yasmina Pani ha poi evidenziato che la distinzione di genere nelle parole è spesso solo una classificazione grammaticale, non un vero riferimento all’identità di genere.
+
+In sintesi, vedo la schwa come una proposta interessante dal punto di vista simbolico e politico, quasi un "memento mori" linguistico per non dimenticare certe disuguaglianze. Mi piace usarla in contesti consapevoli e ristretti, ma ritengo difficile la sua adozione su larga scala, salvo in comunità molto affiatate e aperte al cambiamento.
