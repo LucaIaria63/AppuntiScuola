@@ -1,10 +1,35 @@
 # Indice
 - [[#Cos'è la schwa(ə)?]]
+- [[#Perchè se ne parla?]]
+- [[#Pregi e difetti]]
+- [[#Esempi generali]]
+- [[#Pensiero finale]]
 - [[#Fonti / Approfondimenti]]
 # Cos'è la schwa(ə)?
-La schwa(ə) è una vocale fonetica neutra, che si pronuncia ==Inserire==, una vocale presente nel alfabetico fonetico internazionale, un alfabeto che si usa per specificare le pronunce delle parole di conseguenza non c'è una lingua in cui si trova in forma scritta ma si trova solo oralmente.
-Le lingue in cui si trova sono per esempio l'inglese (sofa), il francese 
+La schwa (ə) è una vocale utilizzata nell'alfabeto fonetico internazionale, insieme ad altri simboli, per rappresentare il suono neutro di alcune vocali. È presente in diverse lingue, come l'inglese (nella "a" della parola sofa), il francese (nella "e" della parola celui che significa quello) e il tedesco (nella "e" della parola Mutter che significa madre).
 
+# Perchè se ne parla?
+Questa vocale è stata proposta in modo provocatoria da Vera Gheno (e ricompare periodicamente online) come soluzione per due questioni della lingua italiana:
+- Il maschile sovra esteso / generalizzato
+- La difficoltà del riferirsi alle persone non binarie
+# Pregi e difetti
+I principali pregi sono:
+- La schwa(ə) a differenza dei predecessori (quali la @, l'asterisco e molti altri) non è già usata 
+- Ha una pronuncia
+- è una forma di linguaggio che punta ad includere più persone (Es. al posto di "tutti" si usa "tuttə")
+- L'assenza di un genere "favorito" (nell'italiano il maschile)
+Ma i difetti principali sono:
+- L'essere problematica da leggere per le persone dislessiche (si confonde con la "a" e la "e")
+- L'essere deontologica (è una proposta sul come dovrebbe essere l'obbiettivo della lingua e non sul com'è) spiegandomi peggio la lingua si è strutturata nel tempo per essere efficiente nella comunicazione e fare un aggiunta sarebbe una complicazione che andrebbe contro l'obbiettivo stesso della lingua ossia essere di facile comprensione
+# Esempi generali
+Gruppo di persone composto sia da maschi sia da femmine sia da persone non binarie:
+- Ciao a tuttə!
+- Come state ragazzə?
+Singola persona non binaria:
+- Carə come stai?
+- Benventə entra pure
+# Pensiero finale
+Penso che la schwa(ə) abbia troppi problemi e che non sarà mai applicabile nella realtà (anche se Vera Gheno in successive interviste aveva confermato come fosse una provocazione per portare a una riflessione) e io la trovo così, una mossa politica per ricordare che esistono le persone non binarie e per ricordare che purtroppo esistono ancora retaggi di natura patriarcale nel mondo moderno, anche se questi non sono usati coscientemente dai parlanti (per esempio Mercadini aveva parlato della parola gentile, che deriva da gens (signore) e che risultava essere il contrario di ebreo), e che addirittura questa natura di genere che noi applichiamo alle parole sono solo classi (dei gruppi) da un punto di vista linguistico, il fatto che coincida non è totalmente una casualità ma allo stesso tempo non ha un significato rilevante 
 # Fonti / Approfondimenti
 ## Yasmina Pani
 - [Schwa, asterischi e genere neutro](https://youtu.be/gHFo-lNXmDk?si=z6GJ58cq0zefOzim)
