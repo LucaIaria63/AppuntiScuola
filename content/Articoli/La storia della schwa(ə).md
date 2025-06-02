@@ -14,9 +14,9 @@ Questa vocale è stata proposta in modo provocatoria da Vera Gheno (e ricompare 
 - La difficoltà del riferirsi alle persone non binarie
 # Pregi e difetti
 ## I principali pregi sono:
-- La schwa(ə) a differenza di alcune proposte precedenti (quali per esempio la @ e l'asterisco) non è già usata nel parlato e nello scritto  
+- La schwa(ə) a differenza di alcune proposte precedenti per l'inclusività (per esempio la @ e l'asterisco) non è già usata nel parlato e nello scritto  
 - Ha una pronuncia definita a differenza di altre opzioni impronunciabili nel verbale
-- è una forma di linguaggio che punta ad includere più persone (Es. al posto di "tutti" si usa "tuttə")
+- è una forma di linguaggio che punta ad includere più persone ed a fare sentire bene le persone di conseguenza (Es. al posto di "tutti" si usa "tuttə")
 - L'assenza di un genere "favorito" (nell'italiano il maschile)
 ## Ma i difetti principali sono:
 - L'essere problematica da leggere per le persone dislessiche (si confonde con la "a" e la "e")
@@ -29,7 +29,9 @@ Singola persona non binaria:
 - Carə come stai?
 - Benventə entra pure
 # Pensiero finale
-Penso che la schwa(ə) abbia troppi problemi e che non sarà mai applicabile nella realtà per tutta la popolazione, addirittura Vera Gheno in successive interviste aveva confermato come fosse una provocazione per portare a una riflessione e io la trovo così, una mossa politica per ricordare che esistono le persone non binarie e per ricordare che purtroppo esistono ancora retaggi (di natura patriarcale o di altre realtà negative) nel mondo moderno, anche se questi non sono usati coscientemente dai parlanti in alcuni casi.
+Penso che la schwa(ə) abbia troppi problemi e che non sarà mai applicabile nella realtà per tutta la popolazione e soprattutto ci saranno persone che la rifiuteranno perché non si sentiranno incluse nonostante sia una proposta per includerle.
+
+Addirittura Vera Gheno in successive interviste aveva confermato come fosse una provocazione per portare a una riflessione e io la trovo così, una mossa politica per ricordare che esistono le persone non binarie e per ricordare che purtroppo esistono ancora retaggi (di natura patriarcale o di altre realtà negative) nel mondo moderno, anche se questi non sono usati coscientemente dai parlanti in alcuni casi.
 
 Per esempio Mercadini aveva parlato della parola "gentile", e di come derivi da gens (signore) e che risultava una volta veniva usata come il contrario di ebreo.
 
