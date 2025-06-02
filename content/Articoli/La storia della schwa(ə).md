@@ -56,14 +56,3 @@ In sintesi penso che sia carina come opzione politica e come "memento mori" (fra
 - [Brevissima storia dello schwa | TEDxFirenzeStudio](https://youtu.be/UCx9t2OLOSY?si=YTgUxVxstrXnV1ny)
 ## Wikipedia
 - [Pagina wikipedia della schwa(ə)](https://it.wikipedia.org/wiki/%C6%8F)
-
-
-
-Penso che la schwa (ə) presenti troppi problemi per essere realmente applicabile nella pratica quotidiana. Vera Gheno stessa, in alcune interviste successive, ha chiarito che la sua proposta aveva anche una valenza provocatoria, per stimolare una riflessione più ampia sul linguaggio.
- 
- Personalmente, interpreto questa proposta come un gesto politico e simbolico, utile a ricordarci che esistono anche le persone non binarie, e che la lingua può riflettere – spesso inconsapevolmente – retaggi culturali legati a strutture patriarcali o ad altre forme di esclusione.
-
-Ad esempio, Roberto Mercadini ha osservato che la parola “gentile” deriva da gens (cioè “nobile casata”), in opposizione alla parola “ebreo”, mostrando come alcuni significati originari siano portatori di visioni superate o discriminatorie, anche se ormai scollegate dal nostro uso quotidiano.  
-Yasmina Pani ha poi evidenziato che la distinzione di genere nelle parole è spesso solo una classificazione grammaticale, non un vero riferimento all’identità di genere.
-
-In sintesi, vedo la schwa come una proposta interessante dal punto di vista simbolico e politico, quasi un "memento mori" linguistico per non dimenticare certe disuguaglianze. Mi piace usarla in contesti consapevoli e ristretti, ma ritengo difficile la sua adozione su larga scala, salvo in comunità molto affiatate e aperte al cambiamento.
