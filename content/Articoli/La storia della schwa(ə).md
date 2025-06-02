@@ -40,6 +40,7 @@ E soprattutto come aveva fatto notare Yasmina Pani addirittura questa natura di 
 In sintesi penso che sia carina come opzione politica e come "memento mori" (frase che significa "ricordati che devi morire") rispetto alle questioni di genere e di discriminazione che personalmente mi piace usare, e penso che sia difficilmente applicabile nella realtà se non per ambienti di dimensioni ridotti (mi è capitato di trovare ambienti in cui viene usata con tranquillità), una vera soluzione sarebbe una nuova lingua fatta da zero senza preconcetti e difetti, piena di parole per esprimere idee senza limiti (Il progetto Leibniziano, l'audio di Mortebianca approfondisce).
 # Fonti / Approfondimenti
 ## Per una approfondimento rapido
+Queste fonti sono di facile consultazione e abbastanza dirette nello spiegare 
 ### Il post
 - [Cos’è lo schwa, e come si pronuncia](https://www.ilpost.it/2020/08/28/schwa/)
 ### GioPizzi
@@ -47,6 +48,7 @@ In sintesi penso che sia carina come opzione politica e come "memento mori" (fra
 ### Wikipedia
 - [Pagina wikipedia della schwa(ə)](https://it.wikipedia.org/wiki/%C6%8F)
 ## Per un approfondimento di medio livello
+Queste fonti necessitano parzialmente di conoscere già l'argomento e forniscono spunti di riflessione interessanti
 ### Roberto Mercadini
 - [Sessismo, asterischi e suoni strani * VYGOTSKIJ!](https://youtu.be/PcAUnue4H6I?si=dWYeP6k7Fbb4HaN_)
 - [Lo Schwa: parliamone * VYGOTSKIJ!](https://youtu.be/wsvyaxpaKIs?si=1iz0PTFfzv0GyZYH)
@@ -54,6 +56,7 @@ In sintesi penso che sia carina come opzione politica e come "memento mori" (fra
 ### Mortebianca
 - [Proposta di un'unica lingua mondiale matematica (e perché la preferisco sia teoricamente sia praticamente alla Scevà)](https://t.me/mortebianca/10218)
 ## Per un approfondimento di medio-alto livello
+Queste fonti sono fatte da esperti del settore e di conseguenza hanno un elevata qualità e comprensibilità
 ### Yasmina Pani
 - [Schwa, asterischi e genere neutro](https://youtu.be/gHFo-lNXmDk?si=z6GJ58cq0zefOzim)
 - [Linguaggio inclusivo e altre ca\*zate - MASSACRI con Yasmina Pani](https://youtu.be/6D9ZVqF7WYw?si=gNEl6G5fEAZbj7D9)
