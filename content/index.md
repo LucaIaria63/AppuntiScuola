@@ -10,7 +10,7 @@ title: Homepage
 ## In corso
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano 2]]
 - [[Il metodo di studio]]
-- [[La storia della schwa(ə)]]
+- [[Una riflessione sulla schwa(ə)]]
 ## Finiti
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano Finale]]
 ## Pubblicati
