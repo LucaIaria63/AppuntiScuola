@@ -13,12 +13,12 @@ Questa vocale è stata proposta in modo provocatoria da Vera Gheno (e ricompare 
 - Il maschile sovra esteso / generalizzato
 - La difficoltà del riferirsi alle persone non binarie
 # Pregi e difetti
-I principali pregi sono:
+## I principali pregi sono:
 - La schwa(ə) a differenza di alcune proposte precedenti (quali per esempio la @ e l'asterisco) non è già usata nel parlato e nello scritto  
 - Ha una pronuncia definita a differenza di altre opzioni impronunciabili nel verbale
 - è una forma di linguaggio che punta ad includere più persone (Es. al posto di "tutti" si usa "tuttə")
 - L'assenza di un genere "favorito" (nell'italiano il maschile)
-Ma i difetti principali sono:
+## Ma i difetti principali sono:
 - L'essere problematica da leggere per le persone dislessiche (si confonde con la "a" e la "e")
 - L'essere deontologica (è una proposta sul come dovrebbe essere la lingua e non sul com'è) spiegandomi peggio la lingua si è strutturata nel tempo per essere efficiente nella comunicazione e fare un aggiunta sarebbe una complicazione che andrebbe contro l'obiettivo stesso della lingua ossia essere di facile comprensione
 # Esempi generali
