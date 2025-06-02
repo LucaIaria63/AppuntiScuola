@@ -22,10 +22,10 @@ Questa vocale è stata proposta in modo provocatoria da Vera Gheno (e ricompare 
 - L'essere problematica da leggere per le persone dislessiche (si confonde con la "a" e la "e")
 - L'essere deontologica (è una proposta sul come dovrebbe essere la lingua e non sul com'è) spiegandomi peggio la lingua si è strutturata nel tempo per essere efficiente nella comunicazione e fare un aggiunta sarebbe una complicazione che andrebbe contro l'obiettivo stesso della lingua ossia essere di facile comprensione
 # Esempi generali
-Gruppo di persone composto sia da maschi sia da femmine sia da persone non binarie:
+## Gruppo di persone composto sia da maschi sia da femmine sia da persone non binarie:
 - Ciao a tuttə!
 - Come state ragazzə?
-Singola persona non binaria:
+## Singola persona non binaria:
 - Carə come stai?
 - Benventə entra pure
 # Pensiero finale
