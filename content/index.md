@@ -3,18 +3,22 @@ title: Homepage
 ---
 # 3° Anno
 
-# Articoli
-## Mai pubblicati
+## Articoli
+### Mai pubblicati
 - [[content/Articoli/Perché esiste la musica|Perché esiste la musica?]]
 - [[Non solo a Natale puoi]]
-## In corso
+### In corso
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano 2]]
 - [[Il metodo di studio]]
 - [[Una riflessione sulla schwa(ə)]]
-## Finiti
+### Finiti
+### Pubblicati
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano Finale]]
-## Pubblicati
 ## Diritto (Non aggiornato fino alla fine)
+### Programma progettato
+- [[3ASE_ANNO_SCOLASTICO_2024_2025_DIRITTO__ECONOMIA_POLITICA_DOCENTE_SANARICO_-_Documenti_Google.pdf|3ASE]]
+### Programma svolti
+- [[Diritto3ASE.pdf|3ASE]]
 ### Tema 1
 #### Capitolo 1
 - [[1-La proprietà in generale]]
@@ -50,6 +54,10 @@ title: Homepage
 ### [[Composizione codice civile]]
 
 ## Economia Aziendale
+### Programma progettato
+- [[Piano_lavoro_docente_2024_25_Marcellan_3ASE_Econ_Az.pdf|3ASE]]
+### Programma svolti
+- [[|3ASE]]
 ### Partita doppia
 #### Costituzione di impresa individuale
 - [[1-Costituzione|1-La costituzione di un'impresa individuale con apporto di denaro (denaro in cassa e conto corrente bancario)]]
@@ -91,6 +99,10 @@ title: Homepage
 - [[02-La struttura organizzativa]]
 - [[03-Gli organi aziendali]]
 ## Economia politica
+### Programma progettato
+- [[3ASE_ANNO_SCOLASTICO_2024_2025_DIRITTO__ECONOMIA_POLITICA_DOCENTE_SANARICO_-_Documenti_Google.pdf|3ASE]]
+### Programma svolti
+- [[Economia politica3ASE.pdf|3ASE]]
 ### Tema 1
 #### Capitolo 1
 - [[Introduzione|Introduzione]]
@@ -118,6 +130,11 @@ title: Homepage
 - 
 
 ## Informatica
+### Programma progettato
+- [[InformaticaCapuzzoIIIAS_2024_2025.pdf|3ASE]]
+### Programma svolti
+- [[PrgFinale3ASE_Informatica_Capuzzo.pdf|3ASE]]
+### HTML
 - [[11-A tag]]
 - [[12-Frame]]
 
