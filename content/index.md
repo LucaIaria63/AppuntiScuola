@@ -15,10 +15,10 @@ title: Homepage
 ### Pubblicati
 - [[Codardia o Evoluzione Sociale Il Ghosting Svela le Contraddizioni dell’Umano Finale]]
 ## Diritto (Non aggiornato fino alla fine)
-### Programma progettato
-- [[3ASE_ANNO_SCOLASTICO_2024_2025_DIRITTO__ECONOMIA_POLITICA_DOCENTE_SANARICO_-_Documenti_Google.pdf|3ASE]]
+### Programma previsto
+- [[DirittoProgrammaPrevisto.pdf|3ASE]]
 ### Programma svolti
-- [[Diritto3ASE.pdf|3ASE]]
+- [[DirittoProgrammaSvolto.pdf|3ASE]]
 ### Tema 1
 #### Capitolo 1
 - [[1-La proprietà in generale]]
@@ -54,10 +54,10 @@ title: Homepage
 ### [[Composizione codice civile]]
 
 ## Economia Aziendale
-### Programma progettato
-- [[Piano_lavoro_docente_2024_25_Marcellan_3ASE_Econ_Az.pdf|3ASE]]
+### Programma previsto
+- [[EconomiaAziendaleProgrammaPrevisto.pdf|3ASE]]
 ### Programma svolti
-- [[|3ASE]]
+- [[EconomiaPoliticaProgrammaSvolto.pdf|3ASE]]
 ### Partita doppia
 #### Costituzione di impresa individuale
 - [[1-Costituzione|1-La costituzione di un'impresa individuale con apporto di denaro (denaro in cassa e conto corrente bancario)]]
@@ -99,27 +99,39 @@ title: Homepage
 - [[02-La struttura organizzativa]]
 - [[03-Gli organi aziendali]]
 ## Economia politica
-### Programma progettato
-- [[3ASE_ANNO_SCOLASTICO_2024_2025_DIRITTO__ECONOMIA_POLITICA_DOCENTE_SANARICO_-_Documenti_Google.pdf|3ASE]]
+### Programma previsto
+- [[EconomiaPoliticaProgrammaPrevisto.pdf|3ASE]]
 ### Programma svolti
-- [[Economia politica3ASE.pdf|3ASE]]
+- [[EconomiaPoliticaProgrammaSvolto.pdf|3ASE]]
 ### Tema 1
-#### Capitolo 1
-- [[Introduzione|Introduzione]]
-- [[Rami della scienza economica]]
-- [[L'informazione economica]]
-- [[I metodi del economista]]
-- [[I bisogni e i beni economici]]
-#### Capitolo 2
-- [[Il problema delle scelte]]
-- [[Soggetti e Sistema Economico]]
-- [[Fenomeni economici]]
-#### Capitolo 3
-- [[Distribuzione Commerciale]]
-- [[Il lavoro]]
-- [[Il consumo]]
-- [[Lo scambio]]
-- [[I circuiti economici reali e monetari]]
+#### Capitolo 1, La scienza economica
+- [[1-Che cos'è e a che cosa serve la scienza economica (Introduzione)|1-Che cos'è e a che cosa serve la scienza economica (Introduzione)]]
+- [[2-I metodi del economista]]
+- [[3-Rami della scienza economica]]
+- [[4-L'informazione economica]]
+- [[5-La statistica]]
+- [[6-Come si rappresentano le informazioni economiche]]
+- [[7-Gli indicatori per gli investitori]]
+#### Capitolo 2, Il problema delle scelte per i soggetti economici
+- [[1-I bisogni e i beni economici]]
+- [[2-Il problema delle scelte]]
+- [[3-Soggetti e Sistema Economico]]
+#### Capitolo 3, I fenomeni economici
+- [[1-Fenomeni economici reali]]
+- [[2-La produzione]]
+- [[3-Distribuzione Commerciale]]
+- [[4-Il lavoro]]
+- [[5-Il consumo]]
+- [[6-Lo scambio]]
+- [[7-I fenomeni economici monetari]]
+- [[8-I circuiti economici reali e monetari]]
+#### Capitolo 4, I sistemi economici
+- [[1-Che cos'è e a che cosa serve la scienza economica (Introduzione)]]
+- [[2-L'evoluzione storica dei sistemi economici]]
+- [[3-L'economia capitalistica]]
+- [[4-I modelli teorici di sistema economico]]
+- [[5-I sistemi economici contemporanei]]
+- [[6-Il sistema economico locale]]
 ### Tema 3 
 #### Capitolo 3
 ##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
@@ -127,36 +139,68 @@ title: Homepage
 - [[2. Il profitto]]
 - [[3. L'equilibrio economico]]
 ## Educazione Civica
-- 
+### Programma previsto
+- [[|3ASE]]
+### Programma svolti
+- [[EducazioneCivicaProgrammaSvolto.pdf|3ASE]]
 
 ## Informatica
-### Programma progettato
-- [[InformaticaCapuzzoIIIAS_2024_2025.pdf|3ASE]]
+### Programma previsto
+- [[InformaticaProgrammaPrevisto.pdf|3ASE]]
 ### Programma svolti
-- [[PrgFinale3ASE_Informatica_Capuzzo.pdf|3ASE]]
+- [[InformaticaProgrammaSvolto.pdf|3ASE]]
 ### HTML
 - [[11-A tag]]
 - [[12-Frame]]
 
 ## Lingua inglese
+### Programma previsto
+- [[LinguaIngleseProgrammaPrevisto.pdf|3ASE]]
+### Programma svolti
+- [[LinguaIngleseProgrammaSvolto.pdf|3ASE]]
 ### Unit three Business organisations
 - [[1. Private and public enterprise]]
 
 ## Lingua e Letteratura italiana
+### Programma previsto
+- [[LinguaELetteraturaItalianaProgrammaPrevisto.pdf|3ASE]]
+### Programma svolti
+- [[LinguaELetteraturaItalianaProgrammaSvolto.pdf|3ASE]]
+
+### Argomento
 - [[Alto medioevo]]
 
 ## Matematica
-- 
+### Programma previsto
+- [[MatematicaProgrammaPrevisto.pdf|3ASE]]
+### Programma svolti
+- [[MatematicaProgrammaSvolto.pdf|3ASE]]
 
 ## Religione
-- 
+### Programma previsto
+- [[ReligioneProgrammaPrevisto.pdf|3ASE]]
+### Programma svolti
+- [[ReligioneProgrammaSvolto.pdf|3ASE]]
 
 ## Scienze Motorie e Sportive
+### Programma previsto
+- [[ScienzeMotorieESportiveProgrammaPrevisto.pdf|3ASE]]
+### Programma svolti
+- [[ScienzeMotorieESportiveSvolto.pdf|3ASE]]
+
+### Argomenti
 - [[Capacità motorie]]
 
 ## Spagnolo
-- 
-
+### Programma previsto
+- [[|3ASE]]
+### Programma svolti
+- [[LinguaSpagnolaProgrammaSvolto.pdf|3ASE]]
 ## Storia (Manca il discorso musulmani e temi antecedenti al terzo capitolo)
+### Programma previsto
+- [[StoriaProgrammaPrevisto.pdf|3ASE]]
+### Programma svolti
+- [[StoriaProgrammaSvolto.pdf|3ASE]]
+### Argomenti
 - [[4-Le riforme per liberare la chiesa]]
 - [[5-Conflitto tra papato e impero]]

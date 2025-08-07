@@ -3,10 +3,10 @@
 # Imprenditore (Art 2082 c.c.) ![[Art. 2082 c.c.#Articolo]]
 
 # Piccolo imprenditore (Art 2083 c.c.) ![[Art. 2083 c.c.#Articolo]]
-# I soggetti economici ![[Soggetti e Sistema Economico#Soggetti economici]]
+# I soggetti economici ![[3-Soggetti e Sistema Economico#Soggetti economici]]
 ---
 # Lo scambio
-![[Lo scambio#Definizione]]
+![[6-Lo scambio#Definizione]]
 ---
 # La moneta
 - è tutta ciò che è accettato con mezzo generale di pagamento per l'acquisto di beni o sevizi e per l'estinzione del debito

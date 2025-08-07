@@ -12,7 +12,7 @@ tags:
 - Ogni azienda se incontra un pericolo può essere minaccia la sopravvivenza
 # Mercato 
 - Analizzando l'[[Economia Aziendale/Definizioni universali#Ambiente esterno|ambiente esterno]] si può [[Economia Aziendale/Definizioni universali#Circoscrivere|circoscrivere]] il mercato (l'ambiente dove l'impresa compete) in base al bene/servizio offerto.
-- A sua volta un mercato può essere identificabile dai clienti (es. [[Distribuzione Commerciale#Grossisti|grossisti]], [[Distribuzione Commerciale#Dettaglianti|dettaglianti]])
+- A sua volta un mercato può essere identificabile dai clienti (es. [[3-Distribuzione Commerciale#Grossisti|grossisti]], [[3-Distribuzione Commerciale#Dettaglianti|dettaglianti]])
 ## Cosa deve tener conto un impresa nel mercato
 ### Imprese concorrenti
 - pronte a evolversi per guadagnare quote di mercato

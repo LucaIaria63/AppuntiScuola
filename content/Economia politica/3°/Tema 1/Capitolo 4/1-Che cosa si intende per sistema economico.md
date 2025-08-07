@@ -2,7 +2,6 @@
 tags:
   - APPUNTO_NON_TERMINATO
 ---
-
 # Definizione
 - Si definisce sistema economico l'insieme dei soggetti che, interagendo tra loro, svolgono l'attività economica all'interno di un determinato contesto di regole e sotto l'influenza di fattori [[#Fattori culturali|culturali]], [[#Fattori etici/religiosi|religiosi]], [[#Fattori ambientali|ambientali]], [[#Fattori giuridici|politici]] e [[#Fattori tecnico-scientifici|tecnico-scientifici]].
 # I fattori che influenzano il sistema economico
