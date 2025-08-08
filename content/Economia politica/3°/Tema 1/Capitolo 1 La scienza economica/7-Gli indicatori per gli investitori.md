@@ -19,6 +19,7 @@
 - è la differenza tra il rendimento di un titolo che si vuole considerare e il rendimento di un titolo corrispondente di uno stato considerato privo di rischio
 ## Esempio
 - I titoli considerato sono i buoni pluriennali del tesoro italiani (Btp) con un rendimento di 3,8% negli ultimi 10 anni, e i titoli corrispondenti considerati privi di rischi sono i buoni pluriennali del tesoro tedeschi (Bund) con un rendimento del 1% negli ultimi 10 anni, di conseguenza lo spread sarebbe
+
 $$ Spread(Btp) = 3,8\%-1\%=380-100=280 $$
 - I valori dello spread sono estremamente mutevoli, all'aumentare dello spread significa un peggioramento della situazione economica o perlomeno una percezione che la situazione sia tale
 # Outlook
