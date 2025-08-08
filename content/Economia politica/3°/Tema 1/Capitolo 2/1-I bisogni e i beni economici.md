@@ -37,5 +37,5 @@
 - La scarsità è necessaria poiché i beni in post-scarsità ossia beni in quantità pressoché illimitate (come l'aria) non creano un senso di pena
 # L'attività economica
 - è l'attività con il quale l'uomo si procura i beni o i servizi scarsi per soddisfare i suoi bisogni 
-- I verbi che descrivono questi attività sono: lavorare, produrre acquistare, vendere, consumare, scambiare, risparmiare, investire
-- 
+- I verbi che descrivono questi attività sono: lavorare, produrre acquistare, vendere, consumare, scambiare, risparmiare, investire etc.
+- L'insufficienza dei mezzi rispetto ai bisogni rende l'attività economica non solo penosa perché lo costringe a lavorare ma anche perché lo obbliga a fare scelte e quindi sopportare alle rinunce (costo opportunità)
