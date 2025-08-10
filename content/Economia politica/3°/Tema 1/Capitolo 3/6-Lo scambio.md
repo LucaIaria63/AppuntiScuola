@@ -6,4 +6,4 @@
 ## Scambio monetario:
 - consiste nello scambio di beni in cambio di [[content/Economia politica/Definizioni universali#La moneta|moneta]]
 ## Scambio a credito:
-- è un tipo di scambio in cui la prestazione e la controprestazione nono avvengono simultaneamente
+- è un tipo di scambio in cui la prestazione e la controprestazione nono avvengono simultaneamente 

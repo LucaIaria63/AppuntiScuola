@@ -9,7 +9,7 @@
 ## Etimologia
 - Regole dello stato e della casa
 ## Cos'è
-- usando una definizione ampia è la scienza sociale che studia [[1-I bisogni e i beni economici#L'attività economica|l'attività economica]] dell'uomo, analizzando i [[1-Fenomeni economici reali|fenomeni economici]] nella loro complessità e aiuta i [[3-Soggetti e Sistema Economico#Soggetti economici|soggetti economici]] nelle scelte da compiere per affrontare i problemi economici o per raggiungere determinati fini, per questo viene anche definita scienza delle scelte.
+- usando una definizione ampia è la scienza sociale che studia [[1-I bisogni e i beni economici#L'attività economica|l'attività economica]] dell'uomo, analizzando i [[1-I fenomeni economici reali|fenomeni economici]] nella loro complessità e aiuta i [[3-Soggetti e Sistema Economico#Soggetti economici|soggetti economici]] nelle scelte da compiere per affrontare i problemi economici o per raggiungere determinati fini, per questo viene anche definita scienza delle scelte.
 ## A cosa serve
 - Ha come fine l'uso efficiente delle risorse limitate per soddisfare [[1-I bisogni e i beni economici|i bisogni]] che sono [[1-I bisogni e i beni economici#Illimitati|illimitati]]
 ## Discorso preparato

@@ -117,7 +117,7 @@ title: Homepage
 - [[2-Il problema delle scelte]]
 - [[3-Soggetti e Sistema Economico]]
 #### Capitolo 3, I fenomeni economici
-- [[1-Fenomeni economici reali]]
+- [[1-I fenomeni economici reali]]
 - [[2-La produzione]]
 - [[3-Distribuzione Commerciale]]
 - [[4-Il lavoro]]

@@ -8,3 +8,7 @@
 - acquista grandi quantità e rivende ai commercianti
 ## Dettaglianti
 - Vende al consumatore finale
+## Varie tipologie
+- Produttore => Grossista => Dettagliante => Consumatore finale
+- Produttore => Dettagliante => Consumatore finale
+- Produttore => Consumatore finale

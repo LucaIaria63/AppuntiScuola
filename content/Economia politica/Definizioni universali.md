@@ -15,7 +15,7 @@
 - quantità di moneta che si è disposti a scambiare
 ---
 # Valore d'uso
-- danno utilità
+- forniscono utilità
 - il valore d'uso non è uguale al valore di scambio
 ---
 # Il prezzo
@@ -24,15 +24,14 @@
 # Mercato
 - Il luogo dove si incontra l'offerta e la richiesta 
 --- 
-# Il patrimonio
-- situazione statica
-- in termini monetari la ricchezza in un determinato periodo storico
+![[7-I fenomeni economici monetari#Il patrimonio]]
+
 ---
-# Risparmio
-- parte di reddito non consumata
+![[7-I fenomeni economici monetari#Il risparmio]]
+
 ---
-# Investimento
-- l'uso dei [[#Risparmio|risparmi]] nell'attività produttiva
+![[7-I fenomeni economici monetari#L'investimento]]
+
 ---
 # Il mercato finanziario
 - consiste nelle negoziazioni di mezzi finanziari (azioni, obbligazioni, titoli di stato etc.) a media e lunga scadenza, cioè superiore a 18 mesi.
