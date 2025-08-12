@@ -27,10 +27,10 @@
 ![[7-I fenomeni economici monetari#Il patrimonio]]
 
 ---
-![[7-I fenomeni economici monetari#Il risparmio]]
+# ![[7-I fenomeni economici monetari#Il risparmio]]
 
 ---
-![[7-I fenomeni economici monetari#L'investimento]]
+# ![[7-I fenomeni economici monetari#L'investimento]]
 
 ---
 # Il mercato finanziario

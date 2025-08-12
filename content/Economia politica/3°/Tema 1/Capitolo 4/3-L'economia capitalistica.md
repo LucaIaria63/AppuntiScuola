@@ -15,3 +15,28 @@
 - Il *prodotto* realizzato nelle *fabbriche* è di *proprietà del capitalista*, che lo *vende sul mercato* realizzando un profitto
 - Vi è una forte contrapposizione sociale tra le due classi. Emerge la questione sociale e viene elaborata una teoria socio-economica che si contrappone al capitalismo : il comunismo
 - Lo *Stato* in questo sistema non svolge alcuna funzione economica particolare
+# Il "motore" dell'economia capitalistica
+- Le innovazioni sia nella ricerca che nell'applicazione richiedono ingenti capitali di conseguenza si può dire che il motore è il capitale
+## Le diverse fasi della rivoluzione industriale
+
+| Fase                            | Tipi di macchinari e principali fonti di energia                                                                   | Periodo approsimativo                  |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| Prima rivoluzione industriale   | Impiego di macchine a vapore, utilizzo del carbon coke come principale fonte di energia                            | Della metà del 1700 alla metà del 1800 |
+| Seconda rivoluzione industriale | Impiego di macchine elettriche e del motore a scoppio, utilizzo del petrolio                                       | Dalla fine del 1800 alla metà del 1900 |
+| Terza rivoluzione industriale   | Informatizzazione e automatizzazione dei processi produttivi, utilizzo di energia e tecnologia su scala subatomica | Dal secondo dopoguerra a oggi          |
+- In tempi moderni l'innovazione tecnologica è principalmente in campi dell'information technology, le quali hanno portato alla nascita di nuovi prodotti e servizi trasformando la nostra economia da nazionale a globale 
+## Old economy
+- Modello economico di impresa fondata su processi materiali
+## New economy
+- Modello economico di impresa che sfrutta in maniera prevalente l'infrastruttura di internet
+- Manifestazione della new economy è il *commercio elettronico* (e-commerce oppure e-business)
+- Si comprano e vendono merci, e si acquistano e si offrono servizi direttamente dai PC
+- Esistono transizioni le quali non richiedono trasporto avendo come oggetto *file*
+### Classificazione principali applicazioni del commercio elettronico
+
+| Tipi di e-commerce          | Soggetti coinvolti                                          | Grado di diffusione   |
+| --------------------------- | ----------------------------------------------------------- | --------------------- |
+| Business to business (BtoB) | Tra imprese                                                 | Alta diffusione       |
+| Business to consumer (BtoC) | Tra imprese, professionisti e consumatori/utenti finali     | Diffusione mdio-bassa |
+| Consumer to consumer (CtoC) | Tra consumatori                                             | Diffusione scarsa     |
+| Intra-business (IB)         | Tra le sedi di un'impresa o tra imprese dello stesso gruppo | Alta diffusione       |
