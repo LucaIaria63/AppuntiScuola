@@ -15,7 +15,7 @@
 - quantità di moneta che si è disposti a scambiare
 ---
 # Valore d'uso
-- forniscono utilità
+- legato alla funzione intrinseca del bene (l'acqua disseta, irriga etc.) (termine classico)
 - il valore d'uso non è uguale al valore di scambio
 ---
 # Il prezzo
