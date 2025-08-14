@@ -132,6 +132,12 @@ title: Homepage
 - [[4-I modelli teorici di sistema economico]]
 - [[5-I sistemi economici contemporanei]]
 - [[6-Il sistema economico locale]]
+### Tema 2
+#### Capitolo 1
+- [[1-Un problema di scelte]]
+- [[2-L'utilità economica]]
+- [[3-La teoria cardinalista del consumatore]]
+- [[4-La teoria ordinalista del consumo]]
 ### Tema 3 
 #### Capitolo 3
 ##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]

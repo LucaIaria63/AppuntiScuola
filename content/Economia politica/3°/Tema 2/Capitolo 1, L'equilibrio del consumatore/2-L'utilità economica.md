@@ -34,6 +34,9 @@
 
 # Video sul argomento di HUB Scuola
 ![Video](https://youtu.be/-huOo1KCejo?si=N3IdumsAK8JZ68jX)
+
+![Video](https://youtu.be/D0TEgMFaX54?si=40XQVJK75iypDrGB)
+
 # La teoria cardinalista del consumatore (extra)
 L'utilità marginale veniva usata per spiegare il valore e di conseguenza il prezzo, poiché prima si teorizzava come esso fosse dovuto al lavoro impiegato per produrlo ma questo riscontrava problemi con i beni di Voben/lusso i quali nonostante di poco uso a differenza dell'acqua ne hanno un prezzo superiore, la soluzione dei marginalisti è stata suggerire come il prezzo fosse dovuto alla combinazione di desiderio del consumatore e rarità.
 L'acqua è necessaria per la sopravvivenza ha un valore e un prezzo basso mentre i diamanti hanno valore e prezzo elevatissimi a causa della rarità e del desiderio dei consumatori
