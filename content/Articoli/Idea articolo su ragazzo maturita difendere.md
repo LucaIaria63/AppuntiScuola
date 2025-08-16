@@ -1,4 +1,0 @@
-- Ha già superato l'esame
-- L'idea di doversi autolesionare dal punto di vista accademico è ridicola
-- Non aveva convenienza
-- CERCA ALTRI
