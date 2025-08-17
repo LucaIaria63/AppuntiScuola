@@ -45,7 +45,7 @@ Il consumatore ha speso tutto il suo [[7-I fenomeni economici monetari#Il reddit
 - è la condizione ottimale che rende massima l'utilità entro un determinato vincolo di reddito disponibile
 # Utilità marginale ponderata
 Data la diversità dei prezzi dei beni sul mercato è necessaria una comparazione tra utilità della dose e prezzo al fine di poter raggiungere il punto di equilibrio economico
-$$Utilità Marginale Ponderata = utilità Marginale/Prezzo = Utm/P$$
+$$Utilità Marginale Ponderata = \frac{utilità Marginale}{Prezzo} = \frac{Utm}{P}$$
 Prendendo come esempio la tabella precedente
 
 | Dose | Bene A (Libri, 20 euri) | Bene B (Biglietti del cinema, 10 euri) | Bene C (Pizze, 5 euri) |

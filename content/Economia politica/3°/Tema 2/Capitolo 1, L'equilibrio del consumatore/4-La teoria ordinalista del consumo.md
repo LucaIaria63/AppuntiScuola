@@ -18,8 +18,8 @@
 - è un segmento che indica il confine tra le combinazioni accessibili per il consumatore e quelle non accessibili calcolabile con il reddito
 ## Esempio
 - Il bene A (gelati) costano 12 euri, mentre il bene B (pizza) costa 10 euri, facendo il rapporto tra il reddito e il bene A e il reddito e il bene B si ottengono i due punti da collegare con una linea per ottenere la retta di bilancio
-$$Px = Reddito/Pa = 120/12=10$$
-$$Py = Reddito/Pb = 120/10=12$$
+$$Px = \frac{Reddito}{Pa} = \frac{120}{12}=10$$
+$$Py = \frac{Reddito}{Pb} = \frac{120}{10}=12$$
 - le combinazioni seguono la formula
 $$Y=Pa*A+Pb*B$$
 ![[RettaDiBilancio.png]]
