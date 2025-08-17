@@ -10,8 +10,8 @@ La teoria del consumo dei marginalisti non analizza le ragioni delle preferenze 
 - I beni e servizi sono determinati da funzioni di vari elementi
 ### Elementi della funzione
 - [[2-La domanda in funzione del prezzo|Prezzo (Pa)]]
-- [[3-La domanda in funzione di beni o servizi complementari o succedanei|Prezzo dei beni o servizi complementari (Pca)]]
-- [[3-La domanda in funzione di beni o servizi complementari o succedanei|Prezzo dei beni o servizi succedanei(Psa)]]
+- [[3-La domanda in funzione di beni o servizi complementari o succedanei#Beni o servizi complementari|Prezzo dei beni o servizi complementari (Pca)]]
+- [[3-La domanda in funzione di beni o servizi complementari o succedanei#Beni o servizi succedanei|Prezzo dei beni o servizi succedanei(Psa)]]
 - [[4-La domanda in funzione del reddito del consumatore|Reddito del soggetto acquirente (Y)]]
 - [[5-La domanda in funzione degli elementi soggettivi del consumatore|Elementi soggettivi (G)]]
 $$ Da = f(Pa),f(Pca),f(Psa),f(Y),f(G)$$
