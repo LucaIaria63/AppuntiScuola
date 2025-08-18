@@ -1,0 +1,1 @@
+Ogni volta che qualcuno vuole obbiettare contro il materiale di campagne, come per esempio quello usato quando si parla di violenza di genere (bisbigliando ovviamente) dice frasi come "è esagerata" ed "è troppo sensibile" 
