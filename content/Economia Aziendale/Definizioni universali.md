@@ -57,7 +57,7 @@
 # Interessi istituzionali
 - Consistono nei fini che l'azienda predilige (sceglie)
 ---
-# Stakeholder
+# Stakeholders
 - Portatori di interesse (coloro che sono interessati)
 ---
 ![[04-I soggetti aziendali#Assetto istituzionale]]

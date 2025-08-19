@@ -165,6 +165,9 @@ title: Homepage
 - [[1-Impresa e imprenditore]]
 - [[2-Il problema delle scelte per l'imprenditore]]
 - [[3-La scelta della forma giuridica dell'impresa]]
+- [[4-Quali sono le scelte organizzative e di gestione]]
+- [[5-La localizzazione dell'impresa]]
+- [[6-La responsabilità sociale dell'imprenditore]]
 #### Capitolo 3
 ##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
 - [[1. I ricavi]]
