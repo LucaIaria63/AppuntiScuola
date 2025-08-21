@@ -168,6 +168,13 @@ title: Homepage
 - [[4-Quali sono le scelte organizzative e di gestione]]
 - [[5-La localizzazione dell'impresa]]
 - [[6-La responsabilità sociale dell'imprenditore]]
+- [[7-Gli strumenti dell'impresa responsabile]]
+- [[8-Il bilancio sociale e ambientale]]
+#### Capitolo 2, La teoria della produzione
+- [[1-I fattori produttivi e processo di produzione]]
+- [[2-Funzione della produzione e rapporti di scala]]
+- [[3-La produttività dei fattori]]
+- [[4-La combinazione ottimale dei fattori produttivi]]
 #### Capitolo 3
 ##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
 - [[1. I ricavi]]

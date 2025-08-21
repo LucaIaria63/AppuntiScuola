@@ -19,6 +19,7 @@
 - Anche conosciuta come legge dei bisogni saziabili, è un postulato che sostiene che *l'utilità marginale decresce all'aumentare della quantità* disponibile o consumata del bene
 - Visto che ogni dose avrà un utilità decrescente si raggiungerà un punto nel quale un ulteriore unità non arrecherà alcuna utilità (punto di *sazietà*), o addirittura a produrre effetti negativa (disutilità)
 - La legge di Gossen conosce molteplici eccezioni, per esempio un collezionista d'arte troverà un utilità maggiore nel suo ultimo pezzo rispetto al primo
+- I valori della legge di Gossen di natura soggettiva, non oggettiva e contabile
 
 | Dose | Utilità marginale | Utilità totale                |
 | ---- | ----------------- | ----------------------------- |

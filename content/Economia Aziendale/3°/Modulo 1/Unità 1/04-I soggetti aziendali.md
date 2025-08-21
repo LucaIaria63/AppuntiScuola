@@ -1,6 +1,6 @@
 # Che cosa sono?
 - Le imprese fanno molteplici opzioni dal punto di vista giuridico che generano diritti e obblighi (es. contratto di compravendita compratore ha il **diritto** a ricevere le merci ma ha l'**obbligo** di pagarle)
-## Soggetti interni ([[Economia Aziendale/Definizioni universali#Stakeholder|stakeholder]] interni)
+## Soggetti interni ([[Economia Aziendale/Definizioni universali#Stakeholders|stakeholder]] interni)
 ### Soggetto giuridico
 - Il soggetto giuridico di un'azienda è la persona a cui fanno capo i diritti e obblighi derivanti dalle operazioni compiute.
 #### Persona fisica
@@ -43,7 +43,7 @@
 - offre le risorse presenti nel territorio e pretende responsabilità da parte dell'azienda, e che contribuisca allo sviluppo economico e sociale del paese.
 ### Schema riassuntivo soggetti esterni
 
-![[Scheda-04-02.png]]
+![[Schema-04-02.png]]
 
 ### Assetto istituzionale
 - Insieme delle regole delle relazioni tra l'impresa e [[Economia Aziendale/Definizioni universali#Stakeholder|stakeholder]] (interlocutori sociali interni e esterni)
