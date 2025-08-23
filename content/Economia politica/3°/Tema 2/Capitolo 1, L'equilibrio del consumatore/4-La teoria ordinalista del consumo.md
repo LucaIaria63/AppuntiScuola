@@ -12,6 +12,7 @@
 ## Saggio marginale di sostituzione
 - è il rapporto tra la diminuzione di un bene e l'incremento dell'altro
 - Indica quanto si è disposti a rinunciare per una dose aggiuntiva di un altro bene
+$$Saggio Marginale Di Sostituzione = \frac{DiminuazioneBeneA}{AumentoBeneB}$$
 ### Esempio
 - Se per ottenere un bene A in più il consumatore è disposto a cedere due beni B, il saggio marginale di sostituzione è due
 ![[MappaOFamigliaDiCurveDiIndifferenza.png]]
