@@ -39,3 +39,4 @@ $$Y = f(x1,x2,x3,...xm)$$
 - è il costo dell'alternativa produttiva mancata
 - è dato dalla pendenza della curva della frontiera delle possibilità produttive e corrisponde al [[4-La teoria ordinalista del consumo#Saggio marginale di sostituzione|saggio marginale di sostituzione]] tra i beni
 - In ogni paniere c'è un costo opportunità del non usare altri panieri
+- Deriva dalla scarsità delle risorse

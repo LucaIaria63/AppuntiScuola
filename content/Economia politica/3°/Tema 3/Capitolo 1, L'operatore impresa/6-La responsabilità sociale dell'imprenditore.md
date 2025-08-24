@@ -1,6 +1,7 @@
 # Le esternalità negative
 - Sono gli effetti che l'attività economica di un soggetto provoca sulla situazione o sul benessere di un altro soggetto oppure sull'ambiente circostante
 - Questi effetti nascono per la logica del profitto che se non controllata porta le imprese ad avere comportamenti che hanno dei costi sociali
+- Sono dei **costi economici** che con la presenza dello stato possono diventare **costi contabili**
 ## Per esempio
 - *Sfruttamento* dei lavoratori
 - Lavoro minorile
