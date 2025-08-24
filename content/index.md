@@ -175,6 +175,14 @@ title: Homepage
 - [[2-Funzione della produzione e rapporti di scala]]
 - [[3-La produttività dei fattori]]
 - [[4-La combinazione ottimale dei fattori produttivi]]
+#### Capitolo 3, I costi dell'impresa
+- [[1-Che cosa e quanto produrre]]
+- [[2-Costi dell'impresa]]
+- [[3-Costi fissi e costi variabili]]
+- [[4-Costo medio e costo marginale]]
+- [[5-L'offerta]]
+- [[6-Come si raggiunge l'equilibrio costo-ricavi]]
+### Tema 4
 #### Capitolo 3
 ##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
 - [[1. I ricavi]]
