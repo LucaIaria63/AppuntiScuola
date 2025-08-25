@@ -22,9 +22,9 @@
 - Rappresenta la quantità di moneta che si è disposti a cedere per un unità del bene
 ---
 # Mercato
-- Il luogo dove si incontra l'offerta e la richiesta 
+- Il luogo che può essere fisico o digitale dove si incontra l'offerta e la domanda
 --- 
-![[7-I fenomeni economici monetari#Il patrimonio]]
+# ![[7-I fenomeni economici monetari#Il patrimonio]]
 
 ---
 # ![[7-I fenomeni economici monetari#Il risparmio]]

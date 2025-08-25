@@ -1,3 +1,5 @@
+# L'offerta collettiva
+- è la somma dell'offerta delle singole imprese (offerte individuali)
 # La ricerca dell'ottimo economico
 ## L'ottimo economico
 - è il punto che indica la quantità dove c'è maggiore profitto

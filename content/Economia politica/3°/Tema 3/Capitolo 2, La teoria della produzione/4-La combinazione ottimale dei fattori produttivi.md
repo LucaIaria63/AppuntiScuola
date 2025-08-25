@@ -17,7 +17,7 @@ $$Produttività MarginalePonderata = \frac{Produttività Marginale}{PrezzoDelFat
 - L'equilibrio dei fattori produttivi sarebbe esprimibile con la seguente formula
 $$\frac{P1}{p1}=\frac{P2}{p2}=...=\frac{Pn}{pn}$$
 # La teoria degli isoquanti
-- Questa teoria utilizza il [[4-La teoria ordinalista del consumo#Saggio marginale di sostituzione|saggio marginale di sostituzione]] che è una variabile che confronta due fattori per vederne la convenienza
+- Questa teoria utilizza il [[4-La teoria ordinalista del consumo#Saggio marginale di sostituzione|saggio marginale di sostituzione]] che è una variabile che confronta due fattori per vederne il valore di uno rispetto al altro
 $$SaggioMarginaleDiSostituzione = \frac{Quantità Aggiuntiva del primo fattore}{Quantità detratta deel secondo fattore}$$
 ## Esempio
 - Supponiamo un cantiere navale che deve decidere tra lavoratori specializzati e lavoratori non specializzati
@@ -34,5 +34,13 @@ $$SaggioMarginaleDiSostituzione = \frac{Quantità Aggiuntiva del primo fattore}{
 - è la singola curva che combinata permette di creare le curve degli isoquanti della produzione (anche chiamata mappa di isoquanti)
 ![[CurveDegliIsoquantiDellaProduzione.png]]
 ## La retta dell'isocosto della produzione
-- L'isocosto della produzione è 
+- è una retta che divide due aree:
+	- la prima più vicina all'origine che contiene l'area delle combinazione di fattori che l'imprenditore può acquistare ma che non ottimizzano il risultato produttivo
+	- la seconda più lontana dall'origine che contiene l'area elle combinazioni di fattore del costo troppo elevato che l'imprenditore non può acquistare
+### Come si costruisce?
+- Calcolando quanto si otterrebbe di fattore produttivo se si usasse tutto il capitale in un solo fattore, nel esempio con un capitale di 12000 e il lavoro specializzato che costa 30 euri al ora il primo punto sarebbe 0,400 (12000/30) mentre il secondo punto con lavoro non specializzato che costa 20 si troverebbe a 600 (12000/20),0
 ![[IsocostoDellaProduzione.png]]
+# La combinazione ottimale di fattori produttivi
+- Sovrapponendo gli isoquanti della produzione e l'isocosto della produzione, e trovandone la tangenza più distante dall'origine, si individua il punto nel quale si sta:
+	- Sfruttando al massimo il capitale
+	- Si ottiene la migliore risposta produttiva possibile
