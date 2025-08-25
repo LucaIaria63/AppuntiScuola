@@ -187,6 +187,8 @@ title: Homepage
 #### Capitolo 1, Il mercato
 - [[1-La nozione del mercato]]
 - [[2-La domanda e offerta di mercato]]
+- [[3-Domanda e offerta di mercato nel tempo]]
+- [[4-Equilibrio parziale ed equilibrio generale]]
 #### Capitolo 3
 ##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
 - [[1. I ricavi]]
