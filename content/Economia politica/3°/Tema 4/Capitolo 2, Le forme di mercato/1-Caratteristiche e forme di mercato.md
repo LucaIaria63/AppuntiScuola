@@ -9,10 +9,12 @@
 # Le forme di mercato
 - Si distinguono in pure e intermedie
 ## Pure
-- Concorrenza perfetta
-- Monopolio assoluto
+Sono forme teoriche raramente presenti nella realtà, consistono in:
+- [[2-La concorrenza perfetta|Concorrenza perfetta]]
+- [[3-Il monopolio assoluto|Monopolio assoluto]]
 ## Intermedie
-- Concorrenza monopolistica
-- Oligopolio/Duopolio
-- Monopsonio
-- Monopolio bilaterale
+Sono forme presenti nella realtà, consistono in:
+- [[4-Le forme di mercato intermedie#La concorrenza monopolistica|Concorrenza monopolistica]]
+- [[4-Le forme di mercato intermedie#L'oligopolio|Oligopolio/Duopolio]]
+- [[4-Le forme di mercato intermedie#Monopsonio|Monopsonio]]
+- [[4-Le forme di mercato intermedie#Il monopolio bilaterale|Monopolio bilaterale]]

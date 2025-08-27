@@ -189,11 +189,16 @@ title: Homepage
 - [[2-La domanda e offerta di mercato]]
 - [[3-Domanda e offerta di mercato nel tempo]]
 - [[4-Equilibrio parziale ed equilibrio generale]]
+#### Capitolo 2, Le forme di mercato
+- [[1-Caratteristiche e forme di mercato]]
+- [[2-La concorrenza perfetta]]
+- [[3-Il monopolio assoluto]]
+- [[4-Le forme di mercato intermedie]]
 #### Capitolo 3
 ##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
-- [[1. I ricavi]]
-- [[2. Il profitto]]
-- [[3. L'equilibrio economico]]
+- [[1-Costi, ricavi, profitti, ed equilibrio economico]]
+- [[Il profitto]]
+- [[L'equilibrio economico]]
 - [[4-Quali sono le scelte organizzative e di gestione]]
 ## Educazione Civica
 ### Programma previsto

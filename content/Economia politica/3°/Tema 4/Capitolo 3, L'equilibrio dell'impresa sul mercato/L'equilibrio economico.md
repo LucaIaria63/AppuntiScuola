@@ -1,9 +1,9 @@
 ### Equilibrio economico
 - la quantità che l'impresa deve raggiungere per il **massimo profitto**
-$$ Costo Medio = Costo Marginale $$
+$$ Costo Marginale = Ricavo Marginale $$
 ### Equilibrio tecnico
 - indica la situazione in cui l'impresa produce con i costi più bassi, data la quantità corrispondente al costo unitario medio più basso individuabile nel cosiddetto punto di fuga
-$$ Costo Marginale = Ricavo Marginale $$
+$$ Costo Medio = Costo Marginale $$
 #### Importante
 - L'equilibrio economico e equilibrio tecnico non coincidono
 $$
