@@ -12,6 +12,7 @@ $$CMg=CT(n)-CT(n-1)$$
 # L'ottimo tecnico
 - è il punto che indica la quantità nella quale l'efficienza è al massimo
 - Coincide con il punto di fuga
+- è il punto più distante dal [[4-La combinazione ottimale dei fattori produttivi#Isoquanto della produzione|isoquanto]]
 # File contenente un esempio nel foglio Costi
 [[EconomiaPolitica.xlsx]]
 # I costi nel *lungo periodo*

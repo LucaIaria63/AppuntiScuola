@@ -18,3 +18,6 @@ $$ExtraProfito = RT-CT$$
 è il profitto imputabile a ogni singola vendita
 $$PU = RT(1) - CT(1)$$
 # L'equilibrio economico
+è la situazione nella quale l'impresa è [[5-L'offerta#L'ottimo economico|sull'ottimo economico]] e di conseguenza non vuole apportare nessun cambiamento
+# L'equilibrio tecnico
+è un punto qualsiasi del [[4-La combinazione ottimale dei fattori produttivi#Isoquanto della produzione|isoquanto]], quando costo medio e costo marginale coincidono

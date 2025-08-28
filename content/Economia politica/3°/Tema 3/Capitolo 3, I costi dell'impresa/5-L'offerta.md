@@ -6,6 +6,7 @@
 - Si trova sempre dopo il punto di fuga
 - è corrisponde alla quantità nella quale i costi marginali e i ricavi marginali si equivalgono
 - In base al prezzo di mercato l'ottimo economico cambia, da questo concetto nasce la legge della offerta
+- è il punto di tangenza tra [[4-La combinazione ottimale dei fattori produttivi#Isoquanto della produzione|isoquanto]] e [[4-La combinazione ottimale dei fattori produttivi#La retta dell'isocosto della produzione|isocosto]]
 ## Legge della offerta
 - Più è alto il prezzo maggiore sarà la quantità che l'impresa è disposta a offrire
 - La quantità di offerta è in funzione diretta al prezzo di vendita

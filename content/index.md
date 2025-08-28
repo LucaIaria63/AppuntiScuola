@@ -195,11 +195,11 @@ title: Homepage
 - [[3-Il monopolio assoluto]]
 - [[4-Le forme di mercato intermedie]]
 #### Capitolo 3
-##### [[L'equilibro dell'impresa sul mercato|L'equilibro dell'impresa sul mercato:]]
 - [[1-Costi, ricavi, profitti, ed equilibrio economico]]
-- [[Il profitto]]
-- [[L'equilibrio economico]]
-- [[4-Quali sono le scelte organizzative e di gestione]]
+- [[2-La concorrenza perfetta]]
+- [[3-L'equilibrio dell'impresa monopolistica]]
+- [[4-La discriminazione dei prezzi nel monopolio]]
+- [[5-L'equilibrio dell'impresa nella concorrenza perfetta]]
 ## Educazione Civica
 ### Programma previsto
 - [[|3ASE]]

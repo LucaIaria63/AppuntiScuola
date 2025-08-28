@@ -44,3 +44,4 @@ $$SaggioMarginaleDiSostituzione = \frac{Quantità Aggiuntiva del primo fattore}{
 - Sovrapponendo gli isoquanti della produzione e l'isocosto della produzione, e trovandone la tangenza più distante dall'origine, si individua il punto nel quale si sta:
 	- Sfruttando al massimo il capitale
 	- Si ottiene la migliore risposta produttiva possibile
+	- Coincide con [[5-L'offerta#L'ottimo economico|l'ottimo economico]]
