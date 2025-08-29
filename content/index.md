@@ -199,7 +199,10 @@ title: Homepage
 - [[2-La concorrenza perfetta]]
 - [[3-L'equilibrio dell'impresa monopolistica]]
 - [[4-La discriminazione dei prezzi nel monopolio]]
-- [[5-L'equilibrio dell'impresa nella concorrenza perfetta]]
+- [[5-L'equilibrio dell'impresa nella concorrenza imperfetta]]
+- [[6-L'equilibrio dell'impresa nell'oligopolio]]
+- [[7-L'importanza della conoscenza del mercato]]
+- [[8-Il marketing]]
 ## Educazione Civica
 ### Programma previsto
 - [[|3ASE]]

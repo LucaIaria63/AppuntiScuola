@@ -6,7 +6,7 @@
 - *Organizzare* i fattori produttivi
 - *Sostenere* in anticipo i *costi* dei fattori produttivi
 - *Innovare* i processi produttivi
-- [[|Marketing]] e promozione pubblicitaria 
+- [[8-Il marketing#Definizione|Marketing]] e promozione pubblicitaria 
 ## Obbiettivo
 - **Massimizzare** il profitto incrementandolo nel tempo
 ## L'effetto della globalizzazione sulle imprese
