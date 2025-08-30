@@ -217,7 +217,9 @@ title: Homepage
 ### HTML
 - [[11-A tag]]
 - [[12-Frame]]
-
+## Laboratori
+### Professori dell'università
+- [[POD, POP, POI, PON e POC]]
 ## Lingua inglese
 ### Programma previsto
 - [[LinguaIngleseProgrammaPrevisto.pdf|3ASE]]
