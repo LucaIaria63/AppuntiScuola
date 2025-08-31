@@ -118,7 +118,7 @@ title: Homepage
 - [[EconomiaPoliticaProgrammaPrevisto.pdf|3ASE]]
 ### Programma svolti
 - [[EconomiaPoliticaProgrammaSvolto.pdf|3ASE]]
-### Tema 1
+### Tema 1, L'attività economica e la sua scienza
 #### Capitolo 1, La scienza economica
 - [[1-Che cos'è e a che cosa serve la scienza economica (Introduzione)|1-Che cos'è e a che cosa serve la scienza economica (Introduzione)]]
 - [[2-I metodi del economista]]
@@ -147,7 +147,7 @@ title: Homepage
 - [[4-I modelli teorici di sistema economico]]
 - [[5-I sistemi economici contemporanei]]
 - [[6-Il sistema economico locale]]
-### Tema 2
+### Tema 2, Le scelte del consumatore
 #### Capitolo 1, L'equilibrio del consumatore
 - [[1-Un problema di scelte]]
 - [[2-L'utilità economica]]
@@ -160,7 +160,7 @@ title: Homepage
 - [[4-La domanda in funzione del reddito del consumatore]]
 - [[5-La domanda in funzione degli elementi soggettivi del consumatore]]
 - [[6-L'elasticità della domanda]]
-### Tema 3 
+### Tema 3, Le scelte dell'impresa
 #### Capitolo 1, L'operatore impresa
 - [[1-Impresa e imprenditore]]
 - [[2-Il problema delle scelte per l'imprenditore]]
@@ -183,7 +183,7 @@ title: Homepage
 - [[4-Costo medio e costo marginale]]
 - [[5-L'offerta]]
 - [[6-Come si raggiunge l'equilibrio costo-ricavi]]
-### Tema 4
+### Tema 4, Il mercato e le scelte individuali
 #### Capitolo 1, Il mercato
 - [[1-La nozione del mercato]]
 - [[2-La domanda e offerta di mercato]]
