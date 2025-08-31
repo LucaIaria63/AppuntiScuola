@@ -194,7 +194,7 @@ title: Homepage
 - [[2-La concorrenza perfetta]]
 - [[3-Il monopolio assoluto]]
 - [[4-Le forme di mercato intermedie]]
-#### Capitolo 3
+#### Capitolo 3, L'equilibrio dell'impresa sul mercato
 - [[1-Costi, ricavi, profitti, ed equilibrio economico]]
 - [[2-La concorrenza perfetta]]
 - [[3-L'equilibrio dell'impresa monopolistica]]
@@ -203,6 +203,8 @@ title: Homepage
 - [[6-L'equilibrio dell'impresa nell'oligopolio]]
 - [[7-L'importanza della conoscenza del mercato]]
 - [[8-Il marketing]]
+- [[9-Le politiche di marketing]]
+- [[10-Il marketing 3.0]]
 ## Educazione Civica
 ### Programma previsto
 - [[|3ASE]]

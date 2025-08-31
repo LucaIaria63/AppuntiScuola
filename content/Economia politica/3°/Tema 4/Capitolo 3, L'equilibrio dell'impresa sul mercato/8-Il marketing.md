@@ -14,10 +14,10 @@ La strategia di marketing è il risultato della scelta compiuta tra quattro vari
 ## Product
 Sono le scelte che influenzano il prodotto dal punto di vista fisico
 ## Price
-Il prezzo
+Scegliere il prezzo
 ## Point of sale
-I canali di vendita
+Scegliere i canali di vendita
 ## Promotion
-Il tipo di pubblicità, comunicazione e pubbliche relazioni 
+Scegliere il tipo di pubblicità, comunicazione e pubbliche relazioni 
 # La variazione del marketing mix
 Il marketing mix è soggetto a varie mutazioni nel corso del tempo in base alla reazione dei consumatori e alle loro reazioni di fronte alle novità, in sintesi è un opera continua 
