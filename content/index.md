@@ -273,3 +273,8 @@ title: Homepage
 ### Argomenti
 - [[4-Le riforme per liberare la chiesa]]
 - [[5-Conflitto tra papato e impero]]
+# 4°
+## Economia politica
+### Tema 5
+## Matematica
+- [[La funzione]]
