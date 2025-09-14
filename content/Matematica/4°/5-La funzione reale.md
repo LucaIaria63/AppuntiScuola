@@ -3,7 +3,7 @@ In matematica, una funzione è una relazione tra due insiemi, chiamati dominio e
 $$f(x)=x+1$$
 # Caratteristiche
 ## Univocità
-A ogni elemento del *dominio* corrisponde un solo elemento del *codominio*
+A ogni elemento del *dominio* corrisponde uno e un solo elemento del *codominio*
 ## Dominio
 è l'insieme di tutti i valori per cui la funzione è definita
 ## Codominio

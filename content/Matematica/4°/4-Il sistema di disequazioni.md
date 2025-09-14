@@ -1,0 +1,1 @@
+è un sistema che indica un intervallo in cui tutte le disequazioni del sistema sono valide

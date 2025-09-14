@@ -277,4 +277,14 @@ title: Homepage
 ## Economia politica
 ### Tema 5
 ## Matematica
-- [[La funzione]]
+- [[1-Le disequazioni lineari]]
+- [[2-Le disequazioni di secondo grado]]
+- [[3-Le disequazioni fratte]]
+- [[4-Il sistema di disequazioni]]
+- [[5-La funzione reale]]
+- [[6-Le funzioni esponenziali]]
+- [[7-Le funzioni irrazionali]]
+## Storia
+### Unita 7
+#### Capitolo 4
+- [[1-Il cinquecento, il secolo dell'espansione]]
