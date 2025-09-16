@@ -1,0 +1,3 @@
+La scrittura nasce 5000 anni fa, ebbe inizialmente uno scopo amministrativo e contabile: serviva, ad esempio, a registrare costi e ricavi (Aspetto contabile), da questa esigenza deriva la contabilità generale, detta “generale” perché considera in modo sistematico tutte le operazioni e i rapporti economici dell’impresa (Aspetto economico), favorendo una gestione capace di creare valore.
+
+Un’attività può essere definita impresa solo se comporta un rischio, cioè quando i ricavi possono risultare inferiori ai costi.

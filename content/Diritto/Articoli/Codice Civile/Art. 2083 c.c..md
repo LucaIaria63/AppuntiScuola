@@ -1,2 +1,2 @@
 # Articolo
-- Sono piccoli imprenditori i coltivatori diretti dal fondo, gli artigiani, i piccoli commercianti e coloro che esercitano un'attività professionalmente organizzata prevalentemente con il lavoro e devi componenti della famiglia
+- Sono piccoli imprenditori i coltivatori diretti dal fondo, gli artigiani, i piccoli commercianti e coloro che esercitano un'attività professionalmente organizzata prevalentemente con il lavoro e dei componenti della famiglia
