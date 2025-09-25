@@ -13,7 +13,7 @@ $$RMg = RT(n+1) - RT(n)$$
 è da notare che il ricavo marginale non è sempre coincide con il prezzo, poiché è possibile che l'impresa stabilisca prezzi differenziati in base al numero di prodotti venduti
 # L'extra profitto
 è la differenza tra ricavi totali e [[3-Costi fissi e costi variabili#Costo totale|costo totali]], è anche chiamato profitto totale
-$$ExtraProfito = RT-CT$$
+$$ExtraProfiyto = RT-CT$$
 # Profitto unitario
 è il profitto imputabile a ogni singola vendita
 $$PU = RT(1) - CT(1)$$
