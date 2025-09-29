@@ -14,3 +14,11 @@ Sussistono tutte le caratteristiche del piccolo imprenditore, ma in aggiunta son
 - L'artigiano può essere titolare di una sola impresa artigiana (*Art. 2* l. 8 agosto 1985, n.443)
 - L'impresa ha come scopo prevalentemente l'esercizio dell'attività di produzione di beni o di prestazione di servizi (*Art. 3* l. 8 agosto 1985, n.443)
 - I dipendenti dell'impresa sono diretti personalmente dal titolare e non superano, compresi i familiari, i limiti massimi stabiliti dalla legge in base al settore produttivo e alle caratteristiche dell'attività (*Art. 4* l. 8 agosto 1985, n.443)
+## Società artigiana
+- Non sia una società per azioni o in accomandita per azioni
+- La maggioranza dei soci (o almeno uno, se sono due) svolga il proprio lavoro manuale nel processo produttivo e il lavoro sia prevalente sul capitale
+## Albo delle imprese artigiane
+Le imprese artigiane devono essere iscritte nel albo delle imprese artigiane tenuto dalla Camera provinciale di commercio (*Art. 5* l. 8 agosto 1985, n.443), ed ha efficacia costitutiva e serve per usufruire delle agevolazioni e incentivi
+## Piccolo imprenditore e artigiano non coincidono
+- Vi sono piccoli imprenditori che non sono artigiani in quanto non svolgono un lavoro **manuale**
+- Vi sono artigiani che non sono piccoli imprenditori in quanto non svolgono un lavoro prevalentemente all'interno dell'impresa
