@@ -276,9 +276,14 @@ title: Homepage
 # 4°
 ## Diritto
 ### Tema 1
+#### Capitolo 1, L'imprenditore
 - [[1-L'imprenditore in generale]]
 - [[2-Il piccolo imprenditore e l'artigiano]]
 - [[3-L'imprenditore agricolo]]
+- [[4-L'impresa familiare]]
+#### Capitolo 2, L'imprenditore commerciale
+- [[1-L'imprenditore commerciale e il suo 'statuto']]
+- [[2-La pubblicità legale]]
 ## Economia politica
 ### Tema 5
 ## Matematica
