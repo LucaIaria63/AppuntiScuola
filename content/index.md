@@ -284,6 +284,9 @@ title: Homepage
 #### Capitolo 2, L'imprenditore commerciale
 - [[1-L'imprenditore commerciale e il suo 'statuto']]
 - [[2-La pubblicità legale]]
+- [[3-La contabilità]]
+- [[4-I rappresentanti dell'imprenditore commerciale]]
+- [[5-I collaboratori autonomi dell'imprenditore commerciale]]
 ## Economia politica
 ### Tema 5
 ## Matematica
