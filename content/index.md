@@ -287,6 +287,10 @@ title: Homepage
 - [[3-La contabilità]]
 - [[4-I rappresentanti dell'imprenditore commerciale]]
 - [[5-I collaboratori autonomi dell'imprenditore commerciale]]
+#### Capitolo 3, L'impresa e l'azienda
+- [[1-L'azienda]]
+- [[2-Il trasferimento dell'azienda]]
+- [[3-I segni distintivi dell'impresa]]
 ## Economia politica
 ### Tema 5
 ## Matematica
