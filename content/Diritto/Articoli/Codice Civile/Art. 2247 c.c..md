@@ -1,0 +1,4 @@
+# Articolo
+Con il contratto di societa' due o piu' persone conferiscono beni o
+servizi per l'esercizio in comune di  una  attivita'  economica  allo
+scopo di dividerne gli utili.

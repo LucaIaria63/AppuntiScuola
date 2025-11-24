@@ -15,7 +15,7 @@ Secondo questo criterio, sono imprenditori anche senza scopo lucrativo:
 - **Le associazioni**, con fini ideali, sociali, assistenziali (Artt. 14 e ss. c.c., Non richiesto come articolo)
 - **Le imprese pubbliche**, dirette a soddisfare i bisogni pubblici (come lo sviluppo delle aree depresse o la ricerca scientifica; Art. 2201 c.c., Non richiesto come articolo)
 - **Le società mutualistiche**, come le società cooperative e di mutua assicurazione, con lo scopo di fornire ai propri soci beni o servizi o occasioni di lavoro a condizioni più vantaggiose rispetto a quelle i mercato (Artt. 2511 e ss. c.c., Non richiesto come articolo)
-Avere un [[1-Costi, ricavi, profitti, ed equilibrio economico#L'extra profitto|profitto]] è uno scopo essenziale nelle società lucrative, nelle quali i soci hanno lo scopo di dividerne gli utili (Art. 2247 c.c.)
+Avere un [[1-Costi, ricavi, profitti, ed equilibrio economico#L'extra profitto|profitto]] è uno scopo essenziale nelle società lucrative, nelle quali i soci hanno lo scopo di dividerne gli utili ([[Art. 2247 c.c.]])
 ## 3-Organizzazione
 Senza questo aspetto, non si parla impresa bensì di [[Art. 2555 c.c.|azienda]], *l'organizzazione degli elementi personali e reali* è una caratteristica necessaria ma non sufficiente 
 ## 4-Produzione o scambio di beni e servizi (contatto con il mercato)

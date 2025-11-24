@@ -87,3 +87,11 @@
 # Articolazione
 - ripartizione, classificazione
 ---
+# Efficacia
+- Raggiungere l'obbiettivo
+---
+# Efficienza
+- Farlo con il minor uso di risorse
+---
+# Stoccaggio
+- Conservazione in deposito di merci, prodotti e materie prime per un breve periodo di tempo, nella quantità sufficiente per un successivo utilizzo nella produzione o per la vendita
